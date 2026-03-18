@@ -1,0 +1,2559 @@
+{
+    "physics_ecf_dpp_01": {
+        "id": "physics_ecf_dpp_01",
+        "title": "DPP 1",
+        "lecture": 2,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Q10.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_01/Electric_Charges_and_Fields_DPP_01_Of_Lec_02_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "physics_ecf_dpp_02": {
+        "id": "physics_ecf_dpp_02",
+        "title": "DPP 2",
+        "lecture": 4,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Q10.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_02/Electric_Charges_and_Fields_DPP_02_Of_Lec_04_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "physics_ecf_dpp_03": {
+        "id": "physics_ecf_dpp_03",
+        "title": "DPP 3",
+        "lecture": 9,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_03/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_03/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_03/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_03/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_03/Q5.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_03/Q7.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_03/Electric_Charges_and_Fields_DPP_03_Of_Lec_09_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "physics_ecf_dpp_04": {
+        "id": "physics_ecf_dpp_04",
+        "title": "DPP 4",
+        "lecture": 10,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Q10.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_04/Electric_Charges_and_Fields_DPP_04_Of_Lec_10_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "physics_ecf_dpp_05": {
+        "id": "physics_ecf_dpp_05",
+        "title": "DPP 5",
+        "lecture": 12,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_05/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_05/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_05/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_05/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_05/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_05/Q6.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_05/Electric_Charges_and_Fields_DPP_05_Of_Lec_12_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "physics_ecf_dpp_06": {
+        "id": "physics_ecf_dpp_06",
+        "title": "DPP 6",
+        "lecture": 13,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_06/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_06/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_06/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_06/Q4.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_06/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_06/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_06/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_06/Q9.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_06/Electric_Charges_and_Fields_DPP_06_Of_Lec_13_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "physics_ecf_dpp_07": {
+        "id": "physics_ecf_dpp_07",
+        "title": "DPP 7",
+        "lecture": 14,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_07/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_07/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_07/Q3.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_07/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_07/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_07/Q7.jpg"
+            },
+            {
+                "q": 9,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_07/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_07/Q10.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_07/Electric_Charges_and_Fields_DPP_07_Of_Lec_14_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "physics_ecf_dpp_08": {
+        "id": "physics_ecf_dpp_08",
+        "title": "DPP 8",
+        "lecture": 16,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Q10.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_08/Electric_Charges_and_Fields_DPP_08_Of_Lec_16_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "physics_ecf_dpp_09": {
+        "id": "physics_ecf_dpp_09",
+        "title": "DPP 9",
+        "lecture": 17,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Q10.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_09/Electric_Charges_and_Fields_DPP_09_Of_Lec_17_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "physics_ecf_dpp_10": {
+        "id": "physics_ecf_dpp_10",
+        "title": "DPP 10",
+        "lecture": 18,
+        "questions": [
+            {
+                "q": 1,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Q10.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/physics/electric_charges/physics_ecf_dpp_10/Electric_Charges_and_Fields_DPP_10_Of_Lec_18_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "math_raf_dpp_01": {
+        "id": "math_raf_dpp_01",
+        "title": "DPP 1",
+        "lecture": 1,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Q17.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_01/Relations and Functions  DPP 01  Lakshya JEE 20 2025.pdf"
+    },
+    "math_raf_dpp_02": {
+        "id": "math_raf_dpp_02",
+        "title": "DPP 2",
+        "lecture": 2,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q17.jpg"
+            },
+            {
+                "q": 18,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q18.jpg"
+            },
+            {
+                "q": 19,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q19.jpg"
+            },
+            {
+                "q": 20,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Q20.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_02/Relations and Functions  DPP 02  Lakshya JEE 2.0 2025.pdf"
+    },
+    "math_raf_dpp_03": {
+        "id": "math_raf_dpp_03",
+        "title": "DPP 3",
+        "lecture": 3,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Q16.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_03/Relations and Functions  DPP 03  Lakshya JEE 2.0 2025.pdf"
+    },
+    "math_raf_dpp_04": {
+        "id": "math_raf_dpp_04",
+        "title": "DPP 4",
+        "lecture": 4,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q17.jpg"
+            },
+            {
+                "q": 18,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q18.jpg"
+            },
+            {
+                "q": 19,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q19.jpg"
+            },
+            {
+                "q": 20,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q20.jpg"
+            },
+            {
+                "q": 21,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q21.jpg"
+            },
+            {
+                "q": 22,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q22.jpg"
+            },
+            {
+                "q": 23,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Q23.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_04/Relations and Functions  DPP 04  Lakshya JEE 2.0 2025.pdf"
+    },
+    "math_raf_dpp_05": {
+        "id": "math_raf_dpp_05",
+        "title": "DPP 5",
+        "lecture": 6,
+        "questions": [],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_05/Relations_and_Functions_DPP_05_Of_Lec_06_Lakshya_JEE_2_0_2025-output.pdf"
+    },
+    "math_raf_dpp_06": {
+        "id": "math_raf_dpp_06",
+        "title": "DPP 6",
+        "lecture": 7,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_06/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_06/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_06/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_06/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_06/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_06/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_06/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_06/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_06/Q9.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_06/Relations_and_Functions_DPP_06_Of_Lec_07_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "math_raf_dpp_07": {
+        "id": "math_raf_dpp_07",
+        "title": "DPP 7",
+        "lecture": 8,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q14.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q17.jpg"
+            },
+            {
+                "q": 18,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q18.jpg"
+            },
+            {
+                "q": 19,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q19.jpg"
+            },
+            {
+                "q": 20,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q20.jpg"
+            },
+            {
+                "q": 21,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q21.jpg"
+            },
+            {
+                "q": 22,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q22.jpg"
+            },
+            {
+                "q": 23,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q23.jpg"
+            },
+            {
+                "q": 24,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q24.jpg"
+            },
+            {
+                "q": 25,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Q25.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_07/Relations_and_Functions_DPP_07_Of_Lec_08_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "math_raf_dpp_08": {
+        "id": "math_raf_dpp_08",
+        "title": "DPP 8",
+        "lecture": 10,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q17.jpg"
+            },
+            {
+                "q": 18,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q18.jpg"
+            },
+            {
+                "q": 19,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Q19.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_08/Relations_and_Functions_DPP_08_Of_Lec_10_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "math_raf_dpp_09": {
+        "id": "math_raf_dpp_09",
+        "title": "DPP 9",
+        "lecture": 11,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q17.jpg"
+            },
+            {
+                "q": 18,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q18.jpg"
+            },
+            {
+                "q": 19,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q19.jpg"
+            },
+            {
+                "q": 20,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q20.jpg"
+            },
+            {
+                "q": 21,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q21.jpg"
+            },
+            {
+                "q": 22,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Q22.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_09/Relations_and_Functions_DPP_09_Of_Lec_11_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "math_raf_dpp_10": {
+        "id": "math_raf_dpp_10",
+        "title": "DPP 10",
+        "lecture": 12,
+        "questions": [
+            {
+                "q": 1,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Q17.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_10/Relations_and_Functions_DPP_10_Of_Lec_12_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "math_raf_dpp_11": {
+        "id": "math_raf_dpp_11",
+        "title": "DPP 11",
+        "lecture": 14,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q17.jpg"
+            },
+            {
+                "q": 18,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q18.jpg"
+            },
+            {
+                "q": 19,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q19.jpg"
+            },
+            {
+                "q": 20,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Q20.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_11/Relations_and_Functions_DPP_11_Of_Lec_14_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "math_raf_dpp_12": {
+        "id": "math_raf_dpp_12",
+        "title": "DPP 12",
+        "lecture": 15,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Q15.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/relations_functions/math_raf_dpp_12/Relations_and_Functions_DPP_12_Of_Lec_15_Lakshya_JEE_2_0_2025.pdf"
+    },
+    "math_mat_dpp_01": {
+        "id": "math_mat_dpp_01",
+        "title": "DPP 1",
+        "lecture": 1,
+        "questions": [
+            {
+                "q": 1,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q17.jpg"
+            },
+            {
+                "q": 18,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_01/Q18.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/matrices/math_mat_dpp_01/Matrices  DPP 01  Lakshya JEE 2.0 2025.pdf"
+    },
+    "math_mat_dpp_02": {
+        "id": "math_mat_dpp_02",
+        "title": "DPP 2",
+        "lecture": 2,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q4.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_02/Q16.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/matrices/math_mat_dpp_02/Matrices  DPP 02  Lakshya JEE 2.0 2025.pdf"
+    },
+    "math_mat_dpp_03": {
+        "id": "math_mat_dpp_03",
+        "title": "DPP 3",
+        "lecture": 3,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q17.jpg"
+            },
+            {
+                "q": 18,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_03/Q18.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/matrices/math_mat_dpp_03/Matrices  DPP 03  Lakshya JEE 2.0 2025.pdf"
+    },
+    "math_mat_dpp_04": {
+        "id": "math_mat_dpp_04",
+        "title": "DPP 4",
+        "lecture": 4,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_04/Q13.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/matrices/math_mat_dpp_04/Matrices  DPP 04  Lakshya JEE 2.0 2025.pdf"
+    },
+    "math_mat_dpp_05": {
+        "id": "math_mat_dpp_05",
+        "title": "DPP 5",
+        "lecture": 6,
+        "questions": [
+            {
+                "q": 1,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q17.jpg"
+            },
+            {
+                "q": 18,
+                "type": "mcq",
+                "answer": "D",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_05/Q18.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/matrices/math_mat_dpp_05/Matrices  DPP 05 (of Lec 06)  Lakshya JEE 2.0 2025.pdf"
+    },
+    "math_mat_dpp_06": {
+        "id": "math_mat_dpp_06",
+        "title": "DPP 6",
+        "lecture": 7,
+        "questions": [
+            {
+                "q": 1,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q1.jpg"
+            },
+            {
+                "q": 2,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q2.jpg"
+            },
+            {
+                "q": 3,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q3.jpg"
+            },
+            {
+                "q": 4,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q4.jpg"
+            },
+            {
+                "q": 5,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q5.jpg"
+            },
+            {
+                "q": 6,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q6.jpg"
+            },
+            {
+                "q": 7,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q7.jpg"
+            },
+            {
+                "q": 8,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q8.jpg"
+            },
+            {
+                "q": 9,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q9.jpg"
+            },
+            {
+                "q": 10,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q10.jpg"
+            },
+            {
+                "q": 11,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q11.jpg"
+            },
+            {
+                "q": 12,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q12.jpg"
+            },
+            {
+                "q": 13,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q13.jpg"
+            },
+            {
+                "q": 14,
+                "type": "mcq",
+                "answer": "A",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q14.jpg"
+            },
+            {
+                "q": 15,
+                "type": "mcq",
+                "answer": "B",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q15.jpg"
+            },
+            {
+                "q": 16,
+                "type": "mcq",
+                "answer": "C",
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q16.jpg"
+            },
+            {
+                "q": 17,
+                "type": "integer",
+                "answer": null,
+                "image": "/assets/dpps/math/matrices/math_mat_dpp_06/Q17.jpg"
+            }
+        ],
+        "pdf": "/assets/dpps/math/matrices/math_mat_dpp_06/Matrices  DPP 06 (Of Lec 07)  Lakshya JEE 2.0 2025.pdf"
+    }
+}

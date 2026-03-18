@@ -1,0 +1,10 @@
+default_font: Kalpurush
+margins:
+  bottom: 1in
+  left: 1in
+  right: 1in
+  top: 1in
+page_size: A4
+paths:
+  input_dir: input
+  output_dir: output

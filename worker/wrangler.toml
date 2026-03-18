@@ -1,0 +1,30 @@
+name = "study-fly-bot"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+
+# ── Cron Trigger: fires every minute to check the schedule ──
+[triggers]
+crons = ["* * * * *"]
+
+# ── KV Namespaces ──
+[[kv_namespaces]]
+binding = "SUBSCRIBERS"
+id = "c480026ae5494cb4881e910a268c5d57"
+
+[[kv_namespaces]]
+binding = "LOGIN_TOKENS"
+id = "3d1fc2eb30f94dc1958e375767f88424"
+
+[[kv_namespaces]]
+binding = "SCHEDULE"
+id = "1a3172c680eb4566a68d62557798f7b6"
+
+[[kv_namespaces]]
+binding = "USER_DATA"
+id = "1cbbe0359fe1425bb7c566fe8de3ad47"
+
+# ── Environment Variables ──
+[vars]
+NOTIFY_BOT_TOKEN = "8644741851:AAFxgricErodCecg8hTsPkystoDfYDTohVQ"
+LOGIN_BOT_TOKEN = "8715356383:AAFS5-oyvSf0Yt43iEdO4WDX6fPKq4ZABYM"
+SITE_URL = "https://main.study-fly.pages.dev"

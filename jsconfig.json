@@ -1,0 +1,61 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "checkJs": false,
+        "module": "ESNext",
+        "moduleResolution": "bundler",
+        "target": "ESNext",
+        "jsx": "react-jsx",
+        "types": [
+            "vite/client"
+        ],
+        "paths": {
+            "@/*": [
+                "src/*"
+            ],
+            "@components/*": [
+                "src/components/*"
+            ],
+            "@atoms/*": [
+                "src/components/atoms/*"
+            ],
+            "@molecules/*": [
+                "src/components/molecules/*"
+            ],
+            "@organisms/*": [
+                "src/components/organisms/*"
+            ],
+            "@templates/*": [
+                "src/components/templates/*"
+            ],
+            "@data/*": [
+                "src/data/*"
+            ],
+            "@services/*": [
+                "src/services/*"
+            ],
+            "@hooks/*": [
+                "src/hooks/*"
+            ],
+            "@context/*": [
+                "src/context/*"
+            ],
+            "@utils/*": [
+                "src/utils/*"
+            ],
+            "@assets/*": [
+                "src/assets/*"
+            ],
+            "@pages/*": [
+                "src/pages/*"
+            ]
+        }
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
