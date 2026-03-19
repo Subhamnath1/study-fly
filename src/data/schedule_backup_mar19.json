@@ -296,36 +296,6 @@
   {
     "id": "2026-03-18-WED",
     "date": "2026-03-18",
-    "dayType": "BACKLOG_CLEARANCE",
-    "subjects": [
-      {
-        "subject": "System",
-        "chapterName": "Backlog Clearance",
-        "topic": "Backlog Clearance & Catchup Day",
-        "type": "VIDEO",
-        "videoId": "",
-        "unlockTime": "08:00 AM"
-      }
-    ]
-  },
-  {
-    "id": "2026-03-19-THU",
-    "date": "2026-03-19",
-    "dayType": "BACKLOG_CLEARANCE",
-    "subjects": [
-      {
-        "subject": "System",
-        "chapterName": "Backlog Clearance",
-        "topic": "Backlog Clearance & Catchup Day",
-        "type": "VIDEO",
-        "videoId": "",
-        "unlockTime": "08:00 AM"
-      }
-    ]
-  },
-  {
-    "id": "2026-03-20-FRI",
-    "date": "2026-03-20",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -354,6 +324,74 @@
         "type": "VIDEO",
         "videoId": "1p3ZySpyoMXp0rsSouZTibjpAk8At-0O2",
         "unlockTime": "07:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-19-THU",
+    "date": "2026-03-19",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electric Charges & Fields",
+        "topic": "Lecture 8",
+        "type": "VIDEO",
+        "videoId": "1vFK1le4gMNlseMEkScINcugvEiLn2yKg",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Relations and Functions",
+        "topic": "Lecture 8",
+        "type": "VIDEO",
+        "videoId": "1zhasjiLiRkm7TexHD16tIrV47bfzCxE1",
+        "unlockTime": "12:00 PM",
+        "resourceLinks": {
+          "dpp": "math_raf_dpp_07"
+        }
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Solutions",
+        "topic": "Lecture 8",
+        "type": "VIDEO",
+        "videoId": "1CzZv93ftSZbrFlxYhdIhys46uxTrssRo",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-20-FRI",
+    "date": "2026-03-20",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electric Charges & Fields",
+        "topic": "Lecture 9",
+        "type": "VIDEO",
+        "videoId": "1dM9VJlpSL45fhZgfzFXAF90xtxv8Rk7F",
+        "unlockTime": "10:00 AM",
+        "resourceLinks": {
+          "dpp": "physics_ecf_dpp_03"
+        }
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Relations and Functions",
+        "topic": "Lecture 9",
+        "type": "VIDEO",
+        "videoId": "167eAJ9w9CyclGdWZEtHZnPNHA5nEqhjK",
+        "unlockTime": "01:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Solutions",
+        "topic": "Lecture 9",
+        "type": "VIDEO",
+        "videoId": "1SYkHhbir6kew8DFPqBLcJum2vkxVvSxW",
+        "unlockTime": "04:30 PM"
       }
     ]
   },
@@ -415,74 +453,6 @@
       {
         "subject": "Physics",
         "chapterName": "Electric Charges & Fields",
-        "topic": "Lecture 8",
-        "type": "VIDEO",
-        "videoId": "1vFK1le4gMNlseMEkScINcugvEiLn2yKg",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Relations and Functions",
-        "topic": "Lecture 8",
-        "type": "VIDEO",
-        "videoId": "1zhasjiLiRkm7TexHD16tIrV47bfzCxE1",
-        "unlockTime": "12:00 PM",
-        "resourceLinks": {
-          "dpp": "math_raf_dpp_07"
-        }
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Solutions",
-        "topic": "Lecture 8",
-        "type": "VIDEO",
-        "videoId": "1CzZv93ftSZbrFlxYhdIhys46uxTrssRo",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-03-24-TUE",
-    "date": "2026-03-24",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electric Charges & Fields",
-        "topic": "Lecture 9",
-        "type": "VIDEO",
-        "videoId": "1dM9VJlpSL45fhZgfzFXAF90xtxv8Rk7F",
-        "unlockTime": "10:00 AM",
-        "resourceLinks": {
-          "dpp": "physics_ecf_dpp_03"
-        }
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Relations and Functions",
-        "topic": "Lecture 9",
-        "type": "VIDEO",
-        "videoId": "167eAJ9w9CyclGdWZEtHZnPNHA5nEqhjK",
-        "unlockTime": "01:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Solutions",
-        "topic": "Lecture 9",
-        "type": "VIDEO",
-        "videoId": "1SYkHhbir6kew8DFPqBLcJum2vkxVvSxW",
-        "unlockTime": "04:30 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-03-25-WED",
-    "date": "2026-03-25",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electric Charges & Fields",
         "topic": "Lecture 10",
         "type": "VIDEO",
         "videoId": "1T_mfQXWYZw6-6OoSRUH3D3WdiCwCrSeQ",
@@ -513,8 +483,8 @@
     ]
   },
   {
-    "id": "2026-03-26-THU",
-    "date": "2026-03-26",
+    "id": "2026-03-24-TUE",
+    "date": "2026-03-24",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -547,8 +517,8 @@
     ]
   },
   {
-    "id": "2026-03-27-FRI",
-    "date": "2026-03-27",
+    "id": "2026-03-25-WED",
+    "date": "2026-03-25",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -580,6 +550,77 @@
         "type": "VIDEO",
         "videoId": "1taR5JmfK6CLe4rQ5WIZLqwW6sDGSI6MB",
         "unlockTime": "07:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-26-THU",
+    "date": "2026-03-26",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electric Charges & Fields",
+        "topic": "Lecture 13",
+        "type": "VIDEO",
+        "videoId": "1ZGdyLSYZF-lg2CRPeSWBES-pBah7ZJiA",
+        "unlockTime": "08:00 AM",
+        "resourceLinks": {
+          "dpp": "physics_ecf_dpp_06"
+        }
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Relations and Functions",
+        "topic": "Lecture 13",
+        "type": "VIDEO",
+        "videoId": "1jDqSMunQIqW3pmbTTDpWXuO2GQY-EE62",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Solutions",
+        "topic": "Lecture 13",
+        "type": "VIDEO",
+        "videoId": "1LMDm4pUlNY5tWss9UVP8MEkY-xltHYqJ",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-27-FRI",
+    "date": "2026-03-27",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electric Charges & Fields",
+        "topic": "Lecture 14",
+        "type": "VIDEO",
+        "videoId": "1Zp_2cxFQ4g_aPHGSrWWJJKZ96FPyf0M3",
+        "unlockTime": "10:00 AM",
+        "resourceLinks": {
+          "dpp": "physics_ecf_dpp_07"
+        }
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Relations and Functions",
+        "topic": "Lecture 14",
+        "type": "VIDEO",
+        "videoId": "1TAB5zysRwh-m3D5MhTXqBIdTy7798woH",
+        "unlockTime": "01:00 PM",
+        "resourceLinks": {
+          "dpp": "math_raf_dpp_11"
+        }
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Solutions",
+        "topic": "Lecture 14",
+        "type": "VIDEO",
+        "videoId": "1frTYm71Ofkmd4AdqRdbKVpklqZtIw0bJ",
+        "unlockTime": "04:30 PM"
       }
     ]
   },
@@ -628,28 +669,28 @@
       {
         "subject": "Physics",
         "chapterName": "Electric Charges & Fields",
-        "topic": "Lecture 13",
+        "topic": "Lecture 15",
         "type": "VIDEO",
-        "videoId": "1ZGdyLSYZF-lg2CRPeSWBES-pBah7ZJiA",
-        "unlockTime": "08:00 AM",
-        "resourceLinks": {
-          "dpp": "physics_ecf_dpp_06"
-        }
+        "videoId": "1ga1Q-KGLdtcPFO5rRJpvAMkefrBnvP74",
+        "unlockTime": "08:00 AM"
       },
       {
         "subject": "Math",
         "chapterName": "Relations and Functions",
-        "topic": "Lecture 13",
+        "topic": "Lecture 15",
         "type": "VIDEO",
-        "videoId": "1jDqSMunQIqW3pmbTTDpWXuO2GQY-EE62",
-        "unlockTime": "12:00 PM"
+        "videoId": "1TZ0SBsoY9mrykrvZvCCQKpT6hALHumsJ",
+        "unlockTime": "12:00 PM",
+        "resourceLinks": {
+          "dpp": "math_raf_dpp_12"
+        }
       },
       {
         "subject": "Chemistry",
         "chapterName": "Solutions",
-        "topic": "Lecture 13",
+        "topic": "Lecture 15",
         "type": "VIDEO",
-        "videoId": "1LMDm4pUlNY5tWss9UVP8MEkY-xltHYqJ",
+        "videoId": "1ou6XUAhtG_TfsiOcGXFvSbFHKva4Wjeq",
         "unlockTime": "06:00 PM"
       }
     ]
@@ -690,32 +731,29 @@
       {
         "subject": "Physics",
         "chapterName": "Electric Charges & Fields",
-        "topic": "Lecture 14",
+        "topic": "Lecture 16",
         "type": "VIDEO",
-        "videoId": "1Zp_2cxFQ4g_aPHGSrWWJJKZ96FPyf0M3",
-        "unlockTime": "10:00 AM",
+        "videoId": "1TSw1Mhlxr3Gw8TwrzALlsshBAFQT0Fxa",
+        "unlockTime": "08:00 AM",
         "resourceLinks": {
-          "dpp": "physics_ecf_dpp_07"
+          "dpp": "physics_ecf_dpp_08"
         }
       },
       {
         "subject": "Math",
-        "chapterName": "Relations and Functions",
-        "topic": "Lecture 14",
+        "chapterName": "Inverse Trigonometry",
+        "topic": "Lecture 1",
         "type": "VIDEO",
-        "videoId": "1TAB5zysRwh-m3D5MhTXqBIdTy7798woH",
-        "unlockTime": "01:00 PM",
-        "resourceLinks": {
-          "dpp": "math_raf_dpp_11"
-        }
+        "videoId": "1IPM8qD-mGj0xw-qkcQ0TVd54GHQsFpKu",
+        "unlockTime": "12:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Solutions",
-        "topic": "Lecture 14",
+        "topic": "Lecture 16",
         "type": "VIDEO",
-        "videoId": "1frTYm71Ofkmd4AdqRdbKVpklqZtIw0bJ",
-        "unlockTime": "04:30 PM"
+        "videoId": "1zabFb3NFpT-1DRkHN2hyTqwMXh8GdoKx",
+        "unlockTime": "06:00 PM"
       }
     ]
   },
@@ -727,29 +765,29 @@
       {
         "subject": "Physics",
         "chapterName": "Electric Charges & Fields",
-        "topic": "Lecture 15",
+        "topic": "Lecture 17",
         "type": "VIDEO",
-        "videoId": "1ga1Q-KGLdtcPFO5rRJpvAMkefrBnvP74",
-        "unlockTime": "08:00 AM"
+        "videoId": "17NQ5PSiHwUuU-JaZonyP4ti1BNFmrZAd",
+        "unlockTime": "10:00 AM",
+        "resourceLinks": {
+          "dpp": "physics_ecf_dpp_09"
+        }
       },
       {
         "subject": "Math",
-        "chapterName": "Relations and Functions",
-        "topic": "Lecture 15",
+        "chapterName": "Inverse Trigonometry",
+        "topic": "Lecture 2",
         "type": "VIDEO",
-        "videoId": "1TZ0SBsoY9mrykrvZvCCQKpT6hALHumsJ",
-        "unlockTime": "12:00 PM",
-        "resourceLinks": {
-          "dpp": "math_raf_dpp_12"
-        }
+        "videoId": "1v5TE7mGKWbaYUU_PjeywgaCr7vmt_e59",
+        "unlockTime": "02:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Solutions",
-        "topic": "Lecture 15",
+        "topic": "Lecture 17",
         "type": "VIDEO",
-        "videoId": "1ou6XUAhtG_TfsiOcGXFvSbFHKva4Wjeq",
-        "unlockTime": "06:00 PM"
+        "videoId": "1hEE7vrRPp4obUDHQuiqNmZsTIAyR0i6Q",
+        "unlockTime": "07:00 PM"
       }
     ]
   },
@@ -798,28 +836,28 @@
       {
         "subject": "Physics",
         "chapterName": "Electric Charges & Fields",
-        "topic": "Lecture 16",
+        "topic": "Lecture 18",
         "type": "VIDEO",
-        "videoId": "1TSw1Mhlxr3Gw8TwrzALlsshBAFQT0Fxa",
+        "videoId": "1-Z_UBtWsbIBckuG7QXSbl6Uo5ZF8qGJ2",
         "unlockTime": "08:00 AM",
         "resourceLinks": {
-          "dpp": "physics_ecf_dpp_08"
+          "dpp": "physics_ecf_dpp_10"
         }
       },
       {
         "subject": "Math",
         "chapterName": "Inverse Trigonometry",
-        "topic": "Lecture 1",
+        "topic": "Lecture 3",
         "type": "VIDEO",
-        "videoId": "1IPM8qD-mGj0xw-qkcQ0TVd54GHQsFpKu",
+        "videoId": "1p-vb7ADXhlu2tVMz6vC2Fs54kjitn1bv",
         "unlockTime": "12:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Solutions",
-        "topic": "Lecture 16",
+        "topic": "Lecture 18",
         "type": "VIDEO",
-        "videoId": "1zabFb3NFpT-1DRkHN2hyTqwMXh8GdoKx",
+        "videoId": "1wTL36fM88soIadBQeTFa38QNrkBiLXlZ",
         "unlockTime": "06:00 PM"
       }
     ]
@@ -937,74 +975,6 @@
     "subjects": [
       {
         "subject": "Physics",
-        "chapterName": "Electric Charges & Fields",
-        "topic": "Lecture 17",
-        "type": "VIDEO",
-        "videoId": "17NQ5PSiHwUuU-JaZonyP4ti1BNFmrZAd",
-        "unlockTime": "10:00 AM",
-        "resourceLinks": {
-          "dpp": "physics_ecf_dpp_09"
-        }
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Inverse Trigonometry",
-        "topic": "Lecture 2",
-        "type": "VIDEO",
-        "videoId": "1v5TE7mGKWbaYUU_PjeywgaCr7vmt_e59",
-        "unlockTime": "02:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Solutions",
-        "topic": "Lecture 17",
-        "type": "VIDEO",
-        "videoId": "1hEE7vrRPp4obUDHQuiqNmZsTIAyR0i6Q",
-        "unlockTime": "07:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-04-14-TUE",
-    "date": "2026-04-14",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electric Charges & Fields",
-        "topic": "Lecture 18",
-        "type": "VIDEO",
-        "videoId": "1-Z_UBtWsbIBckuG7QXSbl6Uo5ZF8qGJ2",
-        "unlockTime": "08:00 AM",
-        "resourceLinks": {
-          "dpp": "physics_ecf_dpp_10"
-        }
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Inverse Trigonometry",
-        "topic": "Lecture 3",
-        "type": "VIDEO",
-        "videoId": "1p-vb7ADXhlu2tVMz6vC2Fs54kjitn1bv",
-        "unlockTime": "12:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Solutions",
-        "topic": "Lecture 18",
-        "type": "VIDEO",
-        "videoId": "1wTL36fM88soIadBQeTFa38QNrkBiLXlZ",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-04-15-WED",
-    "date": "2026-04-15",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
         "chapterName": "Electrostatic Potential & capacitance",
         "topic": "Lecture 1",
         "type": "VIDEO",
@@ -1025,6 +995,68 @@
         "topic": "Lecture 1",
         "type": "VIDEO",
         "videoId": "1wC3TOFWWd6srvkgt5_s_1SqbTX3cDjtp",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-04-14-TUE",
+    "date": "2026-04-14",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electrostatic Potential & capacitance",
+        "topic": "Lecture 2",
+        "type": "VIDEO",
+        "videoId": "1x08ZVE9hEL0cHZQnZfRXDitPMDokqqtj",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Inverse Trigonometry",
+        "topic": "Lecture 5",
+        "type": "VIDEO",
+        "videoId": "1SJa75BBS2R0zTx-uUhbxrR21OIdJiUqM",
+        "unlockTime": "02:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "p-Block Elements (Groups 15, 16, 17 and 18)",
+        "topic": "Lecture 2",
+        "type": "VIDEO",
+        "videoId": "114D5DsSqPWdQRMcQjNM1BMxKjlC1OCvL",
+        "unlockTime": "07:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-04-15-WED",
+    "date": "2026-04-15",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electrostatic Potential & capacitance",
+        "topic": "Lecture 3",
+        "type": "VIDEO",
+        "videoId": "1Lj_zx2Al_eWw1Y9SDicQfHW9hw9xYb1T",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Inverse Trigonometry",
+        "topic": "Lecture 6",
+        "type": "VIDEO",
+        "videoId": "1_C-jsl5Bi1e3AOGs8GowE7R7oV6qST4v",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "p-Block Elements (Groups 15, 16, 17 and 18)",
+        "topic": "Lecture 3",
+        "type": "VIDEO",
+        "videoId": "1XN0sNJVsY6b3D0L56ag5rnwiFtGc8SLb",
         "unlockTime": "06:00 PM"
       }
     ]
@@ -1115,68 +1147,6 @@
       {
         "subject": "Physics",
         "chapterName": "Electrostatic Potential & capacitance",
-        "topic": "Lecture 2",
-        "type": "VIDEO",
-        "videoId": "1x08ZVE9hEL0cHZQnZfRXDitPMDokqqtj",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Inverse Trigonometry",
-        "topic": "Lecture 5",
-        "type": "VIDEO",
-        "videoId": "1SJa75BBS2R0zTx-uUhbxrR21OIdJiUqM",
-        "unlockTime": "02:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "p-Block Elements (Groups 15, 16, 17 and 18)",
-        "topic": "Lecture 2",
-        "type": "VIDEO",
-        "videoId": "114D5DsSqPWdQRMcQjNM1BMxKjlC1OCvL",
-        "unlockTime": "07:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-04-21-TUE",
-    "date": "2026-04-21",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electrostatic Potential & capacitance",
-        "topic": "Lecture 3",
-        "type": "VIDEO",
-        "videoId": "1Lj_zx2Al_eWw1Y9SDicQfHW9hw9xYb1T",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Inverse Trigonometry",
-        "topic": "Lecture 6",
-        "type": "VIDEO",
-        "videoId": "1_C-jsl5Bi1e3AOGs8GowE7R7oV6qST4v",
-        "unlockTime": "12:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "p-Block Elements (Groups 15, 16, 17 and 18)",
-        "topic": "Lecture 3",
-        "type": "VIDEO",
-        "videoId": "1XN0sNJVsY6b3D0L56ag5rnwiFtGc8SLb",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-04-22-WED",
-    "date": "2026-04-22",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electrostatic Potential & capacitance",
         "topic": "Lecture 4",
         "type": "VIDEO",
         "videoId": "1Pc5BT3FG4Ugeyu7tucdsj0pRTimr98v2",
@@ -1204,8 +1174,8 @@
     ]
   },
   {
-    "id": "2026-04-23-THU",
-    "date": "2026-04-23",
+    "id": "2026-04-21-TUE",
+    "date": "2026-04-21",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -1238,8 +1208,8 @@
     ]
   },
   {
-    "id": "2026-04-24-FRI",
-    "date": "2026-04-24",
+    "id": "2026-04-22-WED",
+    "date": "2026-04-22",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -1267,6 +1237,71 @@
         "topic": "Lecture 6",
         "type": "VIDEO",
         "videoId": "1Z7uBZRS1uycfOYoJf3VffxcQXxVLTk9n",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-04-23-THU",
+    "date": "2026-04-23",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electrostatic Potential & capacitance",
+        "topic": "Lecture 7",
+        "type": "VIDEO",
+        "videoId": "1D6xW9z0PmUcpaoDSSiW_Dne-oTujp4dj",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Matrices",
+        "topic": "Lecture 4",
+        "type": "VIDEO",
+        "videoId": "1TcMeFLOJbHgBP_3Lnl33o5S-1UUAW6cG",
+        "unlockTime": "01:00 PM",
+        "resourceLinks": {
+          "dpp": "math_mat_dpp_04"
+        }
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "p-Block Elements (Groups 15, 16, 17 and 18)",
+        "topic": "Lecture 7",
+        "type": "VIDEO",
+        "videoId": "1896hAwpb924PGWUr3uRMDxlKrjvS8lJY",
+        "unlockTime": "04:30 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-04-24-FRI",
+    "date": "2026-04-24",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electrostatic Potential & capacitance",
+        "topic": "Lecture 8",
+        "type": "VIDEO",
+        "videoId": "1Pqzit3XfVGtbtZQvAvtD0xupo0W2tfdQ",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Matrices",
+        "topic": "Lecture 5",
+        "type": "VIDEO",
+        "videoId": "1W1Pg7os-3n6YS9DapCY-98UIGSawgfz-",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "p-Block Elements (Groups 15, 16, 17 and 18)",
+        "topic": "Lecture 8",
+        "type": "VIDEO",
+        "videoId": "1VrFKMBXyg8N3OGvgxXIwWG9Inl9o-Wm9",
         "unlockTime": "06:00 PM"
       }
     ]
@@ -1329,29 +1364,29 @@
       {
         "subject": "Physics",
         "chapterName": "Electrostatic Potential & capacitance",
-        "topic": "Lecture 7",
+        "topic": "Lecture 9",
         "type": "VIDEO",
-        "videoId": "1D6xW9z0PmUcpaoDSSiW_Dne-oTujp4dj",
-        "unlockTime": "10:00 AM"
+        "videoId": "1YkSnGdh3a0Wkjh1c9y31vGIeRH50zVag",
+        "unlockTime": "08:00 AM"
       },
       {
         "subject": "Math",
         "chapterName": "Matrices",
-        "topic": "Lecture 4",
+        "topic": "Lecture 6",
         "type": "VIDEO",
-        "videoId": "1TcMeFLOJbHgBP_3Lnl33o5S-1UUAW6cG",
-        "unlockTime": "01:00 PM",
+        "videoId": "1FTl1xwuvl4zQuxaUnj4bcU_KSepivxKo",
+        "unlockTime": "12:00 PM",
         "resourceLinks": {
-          "dpp": "math_mat_dpp_04"
+          "dpp": "math_mat_dpp_05"
         }
       },
       {
         "subject": "Chemistry",
         "chapterName": "p-Block Elements (Groups 15, 16, 17 and 18)",
-        "topic": "Lecture 7",
+        "topic": "Lecture 9",
         "type": "VIDEO",
-        "videoId": "1896hAwpb924PGWUr3uRMDxlKrjvS8lJY",
-        "unlockTime": "04:30 PM"
+        "videoId": "1C5du27S2QFI4XdGx1h8mpcyuGtYiTsrI",
+        "unlockTime": "06:00 PM"
       }
     ]
   },
@@ -1391,26 +1426,29 @@
       {
         "subject": "Physics",
         "chapterName": "Electrostatic Potential & capacitance",
-        "topic": "Lecture 8",
+        "topic": "Lecture 10",
         "type": "VIDEO",
-        "videoId": "1Pqzit3XfVGtbtZQvAvtD0xupo0W2tfdQ",
-        "unlockTime": "08:00 AM"
+        "videoId": "1IUk1LUcXoFPw3bwEz0RxDCPOeljAbVPQ",
+        "unlockTime": "10:00 AM"
       },
       {
         "subject": "Math",
         "chapterName": "Matrices",
-        "topic": "Lecture 5",
+        "topic": "Lecture 7",
         "type": "VIDEO",
-        "videoId": "1W1Pg7os-3n6YS9DapCY-98UIGSawgfz-",
-        "unlockTime": "12:00 PM"
+        "videoId": "1YcfARjsDbPccEXjL2QpkO5S1atO0TetF",
+        "unlockTime": "01:00 PM",
+        "resourceLinks": {
+          "dpp": "math_mat_dpp_06"
+        }
       },
       {
         "subject": "Chemistry",
-        "chapterName": "p-Block Elements (Groups 15, 16, 17 and 18)",
-        "topic": "Lecture 8",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 1",
         "type": "VIDEO",
-        "videoId": "1VrFKMBXyg8N3OGvgxXIwWG9Inl9o-Wm9",
-        "unlockTime": "06:00 PM"
+        "videoId": "1sQIPEM4G2vKTyCNW-LKdtW26_h8KFfkG",
+        "unlockTime": "04:30 PM"
       }
     ]
   },
@@ -1500,74 +1538,6 @@
       {
         "subject": "Physics",
         "chapterName": "Electrostatic Potential & capacitance",
-        "topic": "Lecture 9",
-        "type": "VIDEO",
-        "videoId": "1YkSnGdh3a0Wkjh1c9y31vGIeRH50zVag",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Matrices",
-        "topic": "Lecture 6",
-        "type": "VIDEO",
-        "videoId": "1FTl1xwuvl4zQuxaUnj4bcU_KSepivxKo",
-        "unlockTime": "12:00 PM",
-        "resourceLinks": {
-          "dpp": "math_mat_dpp_05"
-        }
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "p-Block Elements (Groups 15, 16, 17 and 18)",
-        "topic": "Lecture 9",
-        "type": "VIDEO",
-        "videoId": "1C5du27S2QFI4XdGx1h8mpcyuGtYiTsrI",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-05-06-WED",
-    "date": "2026-05-06",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electrostatic Potential & capacitance",
-        "topic": "Lecture 10",
-        "type": "VIDEO",
-        "videoId": "1IUk1LUcXoFPw3bwEz0RxDCPOeljAbVPQ",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Matrices",
-        "topic": "Lecture 7",
-        "type": "VIDEO",
-        "videoId": "1YcfARjsDbPccEXjL2QpkO5S1atO0TetF",
-        "unlockTime": "01:00 PM",
-        "resourceLinks": {
-          "dpp": "math_mat_dpp_06"
-        }
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 1",
-        "type": "VIDEO",
-        "videoId": "1sQIPEM4G2vKTyCNW-LKdtW26_h8KFfkG",
-        "unlockTime": "04:30 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-05-07-THU",
-    "date": "2026-05-07",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electrostatic Potential & capacitance",
         "topic": "Lecture 11",
         "type": "VIDEO",
         "videoId": "1ejWaa4U8gk2333SgVdr8Xnh9Qg7dHEBN",
@@ -1592,8 +1562,8 @@
     ]
   },
   {
-    "id": "2026-05-08-FRI",
-    "date": "2026-05-08",
+    "id": "2026-05-06-WED",
+    "date": "2026-05-06",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -1619,6 +1589,68 @@
         "type": "VIDEO",
         "videoId": "1X_X6q6rcb5wipJRdq8HNIFpU-VXCxdDz",
         "unlockTime": "07:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-05-07-THU",
+    "date": "2026-05-07",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electrostatic Potential & capacitance",
+        "topic": "Lecture 13",
+        "type": "VIDEO",
+        "videoId": "1XtyS-ZMwyeW2gFsqIS74MhrKKOCUnLe2",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Determinants",
+        "topic": "Lecture 3",
+        "type": "VIDEO",
+        "videoId": "1pPy-CyzVgX05EOPWofj-mUvG6madr5CA",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 4",
+        "type": "VIDEO",
+        "videoId": "1mw9YJRO2_VpjnaUnyz27GK_RVDuQGe4T",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-05-08-FRI",
+    "date": "2026-05-08",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electrostatic Potential & capacitance",
+        "topic": "Lecture 14",
+        "type": "VIDEO",
+        "videoId": "10CY7skEe7V1RQccz2sjpmtDZQhpO5v1q",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Determinants",
+        "topic": "Lecture 4",
+        "type": "VIDEO",
+        "videoId": "1vjj_5gkpY9YK2GuXwTuX1Y9w2SkFpB_a",
+        "unlockTime": "01:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 5",
+        "type": "VIDEO",
+        "videoId": "1j8v05N7Jr1SI4lAp2xEcP3YLxmKT7HGt",
+        "unlockTime": "04:30 PM"
       }
     ]
   },
@@ -1680,68 +1712,6 @@
       {
         "subject": "Physics",
         "chapterName": "Electrostatic Potential & capacitance",
-        "topic": "Lecture 13",
-        "type": "VIDEO",
-        "videoId": "1XtyS-ZMwyeW2gFsqIS74MhrKKOCUnLe2",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Determinants",
-        "topic": "Lecture 3",
-        "type": "VIDEO",
-        "videoId": "1pPy-CyzVgX05EOPWofj-mUvG6madr5CA",
-        "unlockTime": "12:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 4",
-        "type": "VIDEO",
-        "videoId": "1mw9YJRO2_VpjnaUnyz27GK_RVDuQGe4T",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-05-12-TUE",
-    "date": "2026-05-12",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electrostatic Potential & capacitance",
-        "topic": "Lecture 14",
-        "type": "VIDEO",
-        "videoId": "10CY7skEe7V1RQccz2sjpmtDZQhpO5v1q",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Determinants",
-        "topic": "Lecture 4",
-        "type": "VIDEO",
-        "videoId": "1vjj_5gkpY9YK2GuXwTuX1Y9w2SkFpB_a",
-        "unlockTime": "01:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 5",
-        "type": "VIDEO",
-        "videoId": "1j8v05N7Jr1SI4lAp2xEcP3YLxmKT7HGt",
-        "unlockTime": "04:30 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-05-13-WED",
-    "date": "2026-05-13",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electrostatic Potential & capacitance",
         "topic": "Lecture 15",
         "type": "VIDEO",
         "videoId": "10G0KJR_uS9MhVwqZgTDq5MMI0ZNeqXOv",
@@ -1762,6 +1732,68 @@
         "type": "VIDEO",
         "videoId": "1hbBRbenYqIks1EHjq6T1yHwaIc3rwiOr",
         "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-05-12-TUE",
+    "date": "2026-05-12",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electrostatic Potential & capacitance",
+        "topic": "Lecture 16",
+        "type": "VIDEO",
+        "videoId": "1Iybt_VE8XLu0AP7SG_PF2xVELjYFAySL",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Determinants",
+        "topic": "Lecture 6",
+        "type": "VIDEO",
+        "videoId": "1mFRpk4FKfFfN0pb7c9pvqG9zUGmO7LXy",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 7",
+        "type": "VIDEO",
+        "videoId": "1UPiOjiD_TvAdJ4aGSalsTH63yUPotLza",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-05-13-WED",
+    "date": "2026-05-13",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electrostatic Potential & capacitance",
+        "topic": "Lecture 17",
+        "type": "VIDEO",
+        "videoId": "1ezyMw2TYkmNVZB6Nw0iYVNeLkDTsFpGh",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Determinants",
+        "topic": "Lecture 7",
+        "type": "VIDEO",
+        "videoId": "1__u-0_SnJcKoFJzJuTeYJOrEfp-3OsHr",
+        "unlockTime": "02:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 8",
+        "type": "VIDEO",
+        "videoId": "1fWqX1wu4m9xnuRPjt57-7cU-nECU3Juo",
+        "unlockTime": "07:00 PM"
       }
     ]
   },
@@ -1878,68 +1910,6 @@
     "subjects": [
       {
         "subject": "Physics",
-        "chapterName": "Electrostatic Potential & capacitance",
-        "topic": "Lecture 16",
-        "type": "VIDEO",
-        "videoId": "1Iybt_VE8XLu0AP7SG_PF2xVELjYFAySL",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Determinants",
-        "topic": "Lecture 6",
-        "type": "VIDEO",
-        "videoId": "1mFRpk4FKfFfN0pb7c9pvqG9zUGmO7LXy",
-        "unlockTime": "12:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 7",
-        "type": "VIDEO",
-        "videoId": "1UPiOjiD_TvAdJ4aGSalsTH63yUPotLza",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-05-21-THU",
-    "date": "2026-05-21",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electrostatic Potential & capacitance",
-        "topic": "Lecture 17",
-        "type": "VIDEO",
-        "videoId": "1ezyMw2TYkmNVZB6Nw0iYVNeLkDTsFpGh",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Determinants",
-        "topic": "Lecture 7",
-        "type": "VIDEO",
-        "videoId": "1__u-0_SnJcKoFJzJuTeYJOrEfp-3OsHr",
-        "unlockTime": "02:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 8",
-        "type": "VIDEO",
-        "videoId": "1fWqX1wu4m9xnuRPjt57-7cU-nECU3Juo",
-        "unlockTime": "07:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-05-22-FRI",
-    "date": "2026-05-22",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
         "chapterName": "Current Electricity",
         "topic": "Lecture 1",
         "type": "VIDEO",
@@ -1960,6 +1930,68 @@
         "topic": "Lecture 9",
         "type": "VIDEO",
         "videoId": "1YkeDBM2OckRwXQJXdp7WuChKtZzufPOL",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-05-21-THU",
+    "date": "2026-05-21",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Current Electricity",
+        "topic": "Lecture 2",
+        "type": "VIDEO",
+        "videoId": "JKqZamQTNv0",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Continuity and Differentiability",
+        "topic": "Lecture 2",
+        "type": "VIDEO",
+        "videoId": "1yYVS4EgN48YaAM85mc3y6BF6ngMmOhJk",
+        "unlockTime": "02:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 10",
+        "type": "VIDEO",
+        "videoId": "1qgZ841vekzUcElNNPB_8LkbaJKF1uDoU",
+        "unlockTime": "07:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-05-22-FRI",
+    "date": "2026-05-22",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Current Electricity",
+        "topic": "Lecture 3",
+        "type": "VIDEO",
+        "videoId": "1MHv8Ssiz6o-ZJQ1RcW-5G7bVEiWvKYes",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Continuity and Differentiability",
+        "topic": "Lecture 3",
+        "type": "VIDEO",
+        "videoId": "1YOucU8cOSNNewR6qN36WqZB_UHCGG0I9",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 11",
+        "type": "VIDEO",
+        "videoId": "1ysiLnPne3jO9S85xanSoHUVWVDdgTVmc",
         "unlockTime": "06:00 PM"
       }
     ]
@@ -2009,68 +2041,6 @@
       {
         "subject": "Physics",
         "chapterName": "Current Electricity",
-        "topic": "Lecture 2",
-        "type": "VIDEO",
-        "videoId": "JKqZamQTNv0",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Continuity and Differentiability",
-        "topic": "Lecture 2",
-        "type": "VIDEO",
-        "videoId": "1yYVS4EgN48YaAM85mc3y6BF6ngMmOhJk",
-        "unlockTime": "02:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 10",
-        "type": "VIDEO",
-        "videoId": "1qgZ841vekzUcElNNPB_8LkbaJKF1uDoU",
-        "unlockTime": "07:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-05-26-TUE",
-    "date": "2026-05-26",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Current Electricity",
-        "topic": "Lecture 3",
-        "type": "VIDEO",
-        "videoId": "1MHv8Ssiz6o-ZJQ1RcW-5G7bVEiWvKYes",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Continuity and Differentiability",
-        "topic": "Lecture 3",
-        "type": "VIDEO",
-        "videoId": "1YOucU8cOSNNewR6qN36WqZB_UHCGG0I9",
-        "unlockTime": "12:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 11",
-        "type": "VIDEO",
-        "videoId": "1ysiLnPne3jO9S85xanSoHUVWVDdgTVmc",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-05-27-WED",
-    "date": "2026-05-27",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Current Electricity",
         "topic": "Lecture 4",
         "type": "VIDEO",
         "videoId": "fPam2xTktLc",
@@ -2095,8 +2065,8 @@
     ]
   },
   {
-    "id": "2026-05-28-THU",
-    "date": "2026-05-28",
+    "id": "2026-05-26-TUE",
+    "date": "2026-05-26",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -2126,8 +2096,8 @@
     ]
   },
   {
-    "id": "2026-05-29-FRI",
-    "date": "2026-05-29",
+    "id": "2026-05-27-WED",
+    "date": "2026-05-27",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -2152,6 +2122,68 @@
         "topic": "Lecture 14",
         "type": "VIDEO",
         "videoId": "1r_dWOjQ5kuJdN5lfUzTj1abj4zIG7H4t",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-05-28-THU",
+    "date": "2026-05-28",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Current Electricity",
+        "topic": "Lecture 7",
+        "type": "VIDEO",
+        "videoId": "uhufi7MxZM4",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Continuity and Differentiability",
+        "topic": "Lecture 7",
+        "type": "VIDEO",
+        "videoId": "1XYkAQ7_slLtyraaxEu4Rlx0gf-GYe1jC",
+        "unlockTime": "02:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 15",
+        "type": "VIDEO",
+        "videoId": "1x8qFgnGdUmTZOIJLhMg8aCG9EZgnH69y",
+        "unlockTime": "07:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-05-29-FRI",
+    "date": "2026-05-29",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Current Electricity",
+        "topic": "Lecture 8",
+        "type": "VIDEO",
+        "videoId": "131_ypOzeCcCdrswF3ZWTL9OZ-wRT5gcZ",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Continuity and Differentiability",
+        "topic": "Lecture 8",
+        "type": "VIDEO",
+        "videoId": "1iLXAb2koUQlYJsQNGjz9v594fvPh1WF2",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 16",
+        "type": "VIDEO",
+        "videoId": "1FWmIATbyvcLoTqCGnXORpFOEf4XjVzje",
         "unlockTime": "06:00 PM"
       }
     ]
@@ -2214,26 +2246,26 @@
       {
         "subject": "Physics",
         "chapterName": "Current Electricity",
-        "topic": "Lecture 7",
+        "topic": "Lecture 9",
         "type": "VIDEO",
-        "videoId": "uhufi7MxZM4",
+        "videoId": "1kq9Uh_BxYWRGWxJFd36Ii31lzI41jwDl",
         "unlockTime": "10:00 AM"
       },
       {
         "subject": "Math",
         "chapterName": "Continuity and Differentiability",
-        "topic": "Lecture 7",
+        "topic": "Lecture 9",
         "type": "VIDEO",
-        "videoId": "1XYkAQ7_slLtyraaxEu4Rlx0gf-GYe1jC",
-        "unlockTime": "02:00 PM"
+        "videoId": "1TiVISHE7JZvjxy3hcRLfhSwd5sWVS6Wx",
+        "unlockTime": "01:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 15",
+        "topic": "Lecture 17",
         "type": "VIDEO",
-        "videoId": "1x8qFgnGdUmTZOIJLhMg8aCG9EZgnH69y",
-        "unlockTime": "07:00 PM"
+        "videoId": "1EGt4VxG_U9Hf6z7nd60POYRk8SlaXnKb",
+        "unlockTime": "04:30 PM"
       }
     ]
   },
@@ -2245,25 +2277,25 @@
       {
         "subject": "Physics",
         "chapterName": "Current Electricity",
-        "topic": "Lecture 8",
+        "topic": "Lecture 10",
         "type": "VIDEO",
-        "videoId": "131_ypOzeCcCdrswF3ZWTL9OZ-wRT5gcZ",
+        "videoId": "1hmU9sPUymfQSYAQAEmkeQZ-5FAUkHs4e",
         "unlockTime": "08:00 AM"
       },
       {
         "subject": "Math",
         "chapterName": "Continuity and Differentiability",
-        "topic": "Lecture 8",
+        "topic": "Lecture 10",
         "type": "VIDEO",
-        "videoId": "1iLXAb2koUQlYJsQNGjz9v594fvPh1WF2",
+        "videoId": "1-q2zQF76AV584fh2p_gXIxm-cZ5WPegg",
         "unlockTime": "12:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 16",
+        "topic": "Lecture 18",
         "type": "VIDEO",
-        "videoId": "1FWmIATbyvcLoTqCGnXORpFOEf4XjVzje",
+        "videoId": "1OTLwymSOO2_guCiqDLb5I35709KOGW2T",
         "unlockTime": "06:00 PM"
       }
     ]
@@ -2304,26 +2336,26 @@
       {
         "subject": "Physics",
         "chapterName": "Current Electricity",
-        "topic": "Lecture 9",
+        "topic": "Lecture 11",
         "type": "VIDEO",
-        "videoId": "1kq9Uh_BxYWRGWxJFd36Ii31lzI41jwDl",
-        "unlockTime": "10:00 AM"
+        "videoId": "ozBmegiHA8g",
+        "unlockTime": "08:00 AM"
       },
       {
         "subject": "Math",
-        "chapterName": "Continuity and Differentiability",
-        "topic": "Lecture 9",
+        "chapterName": "Application of Derivatives",
+        "topic": "Lecture 1",
         "type": "VIDEO",
-        "videoId": "1TiVISHE7JZvjxy3hcRLfhSwd5sWVS6Wx",
-        "unlockTime": "01:00 PM"
+        "videoId": "1_jbqJRXvRwga2HZxwqpjN-7vzkrd7Jxk",
+        "unlockTime": "12:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 17",
+        "topic": "Lecture 19",
         "type": "VIDEO",
-        "videoId": "1EGt4VxG_U9Hf6z7nd60POYRk8SlaXnKb",
-        "unlockTime": "04:30 PM"
+        "videoId": "1fr9_Q_VAPsVzSmxiTGG2GPdD5G_LehOb",
+        "unlockTime": "06:00 PM"
       }
     ]
   },
@@ -2385,68 +2417,6 @@
       {
         "subject": "Physics",
         "chapterName": "Current Electricity",
-        "topic": "Lecture 10",
-        "type": "VIDEO",
-        "videoId": "1hmU9sPUymfQSYAQAEmkeQZ-5FAUkHs4e",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Continuity and Differentiability",
-        "topic": "Lecture 10",
-        "type": "VIDEO",
-        "videoId": "1-q2zQF76AV584fh2p_gXIxm-cZ5WPegg",
-        "unlockTime": "12:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 18",
-        "type": "VIDEO",
-        "videoId": "1OTLwymSOO2_guCiqDLb5I35709KOGW2T",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-09-TUE",
-    "date": "2026-06-09",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Current Electricity",
-        "topic": "Lecture 11",
-        "type": "VIDEO",
-        "videoId": "ozBmegiHA8g",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Application of Derivatives",
-        "topic": "Lecture 1",
-        "type": "VIDEO",
-        "videoId": "1_jbqJRXvRwga2HZxwqpjN-7vzkrd7Jxk",
-        "unlockTime": "12:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 19",
-        "type": "VIDEO",
-        "videoId": "1fr9_Q_VAPsVzSmxiTGG2GPdD5G_LehOb",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-WED",
-    "date": "2026-06-10",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Current Electricity",
         "topic": "Lecture 12",
         "type": "VIDEO",
         "videoId": "1I05v6znzNlOA9guoczFU0UlP7GgWbfU4",
@@ -2471,8 +2441,8 @@
     ]
   },
   {
-    "id": "2026-06-11-THU",
-    "date": "2026-06-11",
+    "id": "2026-06-09-TUE",
+    "date": "2026-06-09",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -2502,8 +2472,8 @@
     ]
   },
   {
-    "id": "2026-06-12-FRI",
-    "date": "2026-06-12",
+    "id": "2026-06-10-WED",
+    "date": "2026-06-10",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -2529,6 +2499,68 @@
         "type": "VIDEO",
         "videoId": "1LsODb74kZ8CUcEtIkvjNZVZMaeSYJy_p",
         "unlockTime": "04:30 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-THU",
+    "date": "2026-06-11",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Current Electricity",
+        "topic": "Lecture 15",
+        "type": "VIDEO",
+        "videoId": "sdbpaSv224w",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Application of Derivatives",
+        "topic": "Lecture 5",
+        "type": "VIDEO",
+        "videoId": "1n09BJoqs8XlbPhmpXrEIJjlWqqcQKi8O",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 23",
+        "type": "VIDEO",
+        "videoId": "1OKyYiyuPJlHPdHKpHws5Fq5MlGjVz_Q7",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-FRI",
+    "date": "2026-06-12",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Current Electricity",
+        "topic": "Lecture 16",
+        "type": "VIDEO",
+        "videoId": "Rkxju61FMFQ",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Application of Derivatives",
+        "topic": "Lecture 6",
+        "type": "VIDEO",
+        "videoId": "1McyBpNoPfJywD1rF8oUkJRUWg2QPw7DU",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Haloalkanes and Haloarenes",
+        "topic": "Lecture 24",
+        "type": "VIDEO",
+        "videoId": "19JjY0eWEFcyEtJIwO8Ryp5ca0ilAiUQv",
+        "unlockTime": "06:00 PM"
       }
     ]
   },
@@ -2577,26 +2609,26 @@
       {
         "subject": "Physics",
         "chapterName": "Current Electricity",
-        "topic": "Lecture 15",
+        "topic": "Lecture 17",
         "type": "VIDEO",
-        "videoId": "sdbpaSv224w",
-        "unlockTime": "08:00 AM"
+        "videoId": "12Ii_ISTLuqP95Tlq_lC7e1XAM8Wd3f0P",
+        "unlockTime": "10:00 AM"
       },
       {
         "subject": "Math",
         "chapterName": "Application of Derivatives",
-        "topic": "Lecture 5",
+        "topic": "Lecture 7",
         "type": "VIDEO",
-        "videoId": "1n09BJoqs8XlbPhmpXrEIJjlWqqcQKi8O",
-        "unlockTime": "12:00 PM"
+        "videoId": "1FPIBHllyia5hBsgyQEh_GcJ3-t0JCeC9",
+        "unlockTime": "02:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 23",
+        "topic": "Lecture 25",
         "type": "VIDEO",
-        "videoId": "1OKyYiyuPJlHPdHKpHws5Fq5MlGjVz_Q7",
-        "unlockTime": "06:00 PM"
+        "videoId": "1FK6MiQWbb4w-UyEtuzNG0gCh-h5UIZ1e",
+        "unlockTime": "07:00 PM"
       }
     ]
   },
@@ -2608,25 +2640,25 @@
       {
         "subject": "Physics",
         "chapterName": "Current Electricity",
-        "topic": "Lecture 16",
+        "topic": "Lecture 18",
         "type": "VIDEO",
-        "videoId": "Rkxju61FMFQ",
+        "videoId": "Ix6hP6gbfmM",
         "unlockTime": "08:00 AM"
       },
       {
         "subject": "Math",
         "chapterName": "Application of Derivatives",
-        "topic": "Lecture 6",
+        "topic": "Lecture 8",
         "type": "VIDEO",
-        "videoId": "1McyBpNoPfJywD1rF8oUkJRUWg2QPw7DU",
+        "videoId": "1Ue7LCmApC2e7M1EVwgdyb0qJuyQ1kA3B",
         "unlockTime": "12:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 24",
+        "topic": "Lecture 26",
         "type": "VIDEO",
-        "videoId": "19JjY0eWEFcyEtJIwO8Ryp5ca0ilAiUQv",
+        "videoId": "1tstPhwlDXouSlfOG2yK8yhF7TAU2ML6X",
         "unlockTime": "06:00 PM"
       }
     ]
@@ -2666,27 +2698,27 @@
     "subjects": [
       {
         "subject": "Physics",
-        "chapterName": "Current Electricity",
-        "topic": "Lecture 17",
+        "chapterName": "Moving Charges and Magnetism",
+        "topic": "Lecture 1",
         "type": "VIDEO",
-        "videoId": "12Ii_ISTLuqP95Tlq_lC7e1XAM8Wd3f0P",
-        "unlockTime": "10:00 AM"
+        "videoId": "1f89y_E8zSvNxHcdT0F9UATbNm-P-Dyan",
+        "unlockTime": "08:00 AM"
       },
       {
         "subject": "Math",
         "chapterName": "Application of Derivatives",
-        "topic": "Lecture 7",
+        "topic": "Lecture 9",
         "type": "VIDEO",
-        "videoId": "1FPIBHllyia5hBsgyQEh_GcJ3-t0JCeC9",
-        "unlockTime": "02:00 PM"
+        "videoId": "1QvTf8RkWEVSSb4VmlilmoSnmeWD2eIdw",
+        "unlockTime": "12:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 25",
+        "topic": "Lecture 27",
         "type": "VIDEO",
-        "videoId": "1FK6MiQWbb4w-UyEtuzNG0gCh-h5UIZ1e",
-        "unlockTime": "07:00 PM"
+        "videoId": "1mwIbiCGm0R3tGSsMud6SEjgOZW52jG5h",
+        "unlockTime": "06:00 PM"
       }
     ]
   },
@@ -2747,27 +2779,27 @@
     "subjects": [
       {
         "subject": "Physics",
-        "chapterName": "Current Electricity",
-        "topic": "Lecture 18",
+        "chapterName": "Moving Charges and Magnetism",
+        "topic": "Lecture 2",
         "type": "VIDEO",
-        "videoId": "Ix6hP6gbfmM",
-        "unlockTime": "08:00 AM"
+        "videoId": "12dfpHNSkN9pD6Mp_DfThKgcUssr4tqzH",
+        "unlockTime": "10:00 AM"
       },
       {
         "subject": "Math",
         "chapterName": "Application of Derivatives",
-        "topic": "Lecture 8",
+        "topic": "Lecture 10",
         "type": "VIDEO",
-        "videoId": "1Ue7LCmApC2e7M1EVwgdyb0qJuyQ1kA3B",
-        "unlockTime": "12:00 PM"
+        "videoId": "1aiNKv7n7obgGtEEoNuflT52S5enqQLBg",
+        "unlockTime": "02:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 26",
+        "topic": "Lecture 28",
         "type": "VIDEO",
-        "videoId": "1tstPhwlDXouSlfOG2yK8yhF7TAU2ML6X",
-        "unlockTime": "06:00 PM"
+        "videoId": "1RCg8gwBKmzO1eFSgF3Fw3E7ipJhFZCu-",
+        "unlockTime": "07:00 PM"
       }
     ]
   },
@@ -2779,25 +2811,25 @@
       {
         "subject": "Physics",
         "chapterName": "Moving Charges and Magnetism",
-        "topic": "Lecture 1",
+        "topic": "Lecture 3",
         "type": "VIDEO",
-        "videoId": "1f89y_E8zSvNxHcdT0F9UATbNm-P-Dyan",
+        "videoId": "1L9P41omjLiTsqrUD9QvnhlmI9PuJj1vw",
         "unlockTime": "08:00 AM"
       },
       {
         "subject": "Math",
         "chapterName": "Application of Derivatives",
-        "topic": "Lecture 9",
+        "topic": "Lecture 11",
         "type": "VIDEO",
-        "videoId": "1QvTf8RkWEVSSb4VmlilmoSnmeWD2eIdw",
+        "videoId": "1MSANctezTW2MRTcXBrm-FhYhoCDPnx8U",
         "unlockTime": "12:00 PM"
       },
       {
         "subject": "Chemistry",
         "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 27",
+        "topic": "Lecture 29",
         "type": "VIDEO",
-        "videoId": "1mwIbiCGm0R3tGSsMud6SEjgOZW52jG5h",
+        "videoId": "12e_Vu3vvWlBSLmT93UncX2RlBfwc_oiF",
         "unlockTime": "06:00 PM"
       }
     ]
@@ -2910,68 +2942,6 @@
       {
         "subject": "Physics",
         "chapterName": "Moving Charges and Magnetism",
-        "topic": "Lecture 2",
-        "type": "VIDEO",
-        "videoId": "12dfpHNSkN9pD6Mp_DfThKgcUssr4tqzH",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Application of Derivatives",
-        "topic": "Lecture 10",
-        "type": "VIDEO",
-        "videoId": "1aiNKv7n7obgGtEEoNuflT52S5enqQLBg",
-        "unlockTime": "02:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 28",
-        "type": "VIDEO",
-        "videoId": "1RCg8gwBKmzO1eFSgF3Fw3E7ipJhFZCu-",
-        "unlockTime": "07:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-WED",
-    "date": "2026-07-01",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Moving Charges and Magnetism",
-        "topic": "Lecture 3",
-        "type": "VIDEO",
-        "videoId": "1L9P41omjLiTsqrUD9QvnhlmI9PuJj1vw",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Application of Derivatives",
-        "topic": "Lecture 11",
-        "type": "VIDEO",
-        "videoId": "1MSANctezTW2MRTcXBrm-FhYhoCDPnx8U",
-        "unlockTime": "12:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Haloalkanes and Haloarenes",
-        "topic": "Lecture 29",
-        "type": "VIDEO",
-        "videoId": "12e_Vu3vvWlBSLmT93UncX2RlBfwc_oiF",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-02-THU",
-    "date": "2026-07-02",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Moving Charges and Magnetism",
         "topic": "Lecture 4",
         "type": "VIDEO",
         "videoId": "1F8okC4e2MK5k7A9actsYY_7cIAiTjTNQ",
@@ -2996,8 +2966,8 @@
     ]
   },
   {
-    "id": "2026-07-03-FRI",
-    "date": "2026-07-03",
+    "id": "2026-07-01-WED",
+    "date": "2026-07-01",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -3023,6 +2993,68 @@
         "type": "VIDEO",
         "videoId": "1dVgRYO1_OD9RhHjQ2hxzE6RTcuPngLVf",
         "unlockTime": "07:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-02-THU",
+    "date": "2026-07-02",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Moving Charges and Magnetism",
+        "topic": "Lecture 6",
+        "type": "VIDEO",
+        "videoId": "15jP33J6h5PJ8rlHqBF2XsH0zOxWtFRH0",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "probability",
+        "topic": "Lecture 3",
+        "type": "VIDEO",
+        "videoId": "1jxZDL6s7D0OtgYqxhOpjto0GP76qCDGt",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Alcohols, Phenols and Ethers",
+        "topic": "Lecture 3",
+        "type": "VIDEO",
+        "videoId": "15NFvU5uIj4P1KcrNS7z7bjPwVAklqrM-",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-FRI",
+    "date": "2026-07-03",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Moving Charges and Magnetism",
+        "topic": "Lecture 7",
+        "type": "VIDEO",
+        "videoId": "1v2Qhrq5G8RvMe3nHtBhqg_yn1EtONexQ",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "probability",
+        "topic": "Lecture 4",
+        "type": "VIDEO",
+        "videoId": "1mGhiTmY8tvXXfITVg9njrmnQg1YlO2cM",
+        "unlockTime": "01:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Alcohols, Phenols and Ethers",
+        "topic": "Lecture 4",
+        "type": "VIDEO",
+        "videoId": "1oIZ7qHrddonSS3fS-LOVIELmjZmaHBZ3",
+        "unlockTime": "04:30 PM"
       }
     ]
   },
@@ -3078,68 +3110,6 @@
       {
         "subject": "Physics",
         "chapterName": "Moving Charges and Magnetism",
-        "topic": "Lecture 6",
-        "type": "VIDEO",
-        "videoId": "15jP33J6h5PJ8rlHqBF2XsH0zOxWtFRH0",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "probability",
-        "topic": "Lecture 3",
-        "type": "VIDEO",
-        "videoId": "1jxZDL6s7D0OtgYqxhOpjto0GP76qCDGt",
-        "unlockTime": "12:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "topic": "Lecture 3",
-        "type": "VIDEO",
-        "videoId": "15NFvU5uIj4P1KcrNS7z7bjPwVAklqrM-",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-07-TUE",
-    "date": "2026-07-07",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Moving Charges and Magnetism",
-        "topic": "Lecture 7",
-        "type": "VIDEO",
-        "videoId": "1v2Qhrq5G8RvMe3nHtBhqg_yn1EtONexQ",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "probability",
-        "topic": "Lecture 4",
-        "type": "VIDEO",
-        "videoId": "1mGhiTmY8tvXXfITVg9njrmnQg1YlO2cM",
-        "unlockTime": "01:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "topic": "Lecture 4",
-        "type": "VIDEO",
-        "videoId": "1oIZ7qHrddonSS3fS-LOVIELmjZmaHBZ3",
-        "unlockTime": "04:30 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-WED",
-    "date": "2026-07-08",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Moving Charges and Magnetism",
         "topic": "Lecture 8",
         "type": "VIDEO",
         "videoId": "1J7-GsZ2Vd4ZdeNhQ_9yS2G-0UAKWmkSe",
@@ -3160,6 +3130,68 @@
         "type": "VIDEO",
         "videoId": "1jANq8H7q_OFX5wWo5a7_6QykQOAy1fHo",
         "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-07-TUE",
+    "date": "2026-07-07",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Moving Charges and Magnetism",
+        "topic": "Lecture 9",
+        "type": "VIDEO",
+        "videoId": "1U7gq1Cjm9h8CpmcJkOMqK5wNNKQQvg8E",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "probability",
+        "topic": "Lecture 6",
+        "type": "VIDEO",
+        "videoId": "1ODxqEtSnaGAf6xQ1rkZCqUKLopw_ze_h",
+        "unlockTime": "12:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Alcohols, Phenols and Ethers",
+        "topic": "Lecture 6",
+        "type": "VIDEO",
+        "videoId": "1B-FJABF2JChahzBmj26MH45Ez0zQFuBK",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-WED",
+    "date": "2026-07-08",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Moving Charges and Magnetism",
+        "topic": "Lecture 10",
+        "type": "VIDEO",
+        "videoId": "1oqGzXmXgFbA09ZYtfKF89_Y-aSiJsCwL",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "probability",
+        "topic": "Lecture 7",
+        "type": "VIDEO",
+        "videoId": "1aegdJzo_PDUqKAZtyUsVE-7XT0Yl9J65",
+        "unlockTime": "02:00 PM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Alcohols, Phenols and Ethers",
+        "topic": "Lecture 7",
+        "type": "VIDEO",
+        "videoId": "1rvHpl_owg23FoAj1AtYDbkoA4yGk-9-P",
+        "unlockTime": "07:00 PM"
       }
     ]
   },
@@ -3243,68 +3275,6 @@
       {
         "subject": "Physics",
         "chapterName": "Moving Charges and Magnetism",
-        "topic": "Lecture 9",
-        "type": "VIDEO",
-        "videoId": "1U7gq1Cjm9h8CpmcJkOMqK5wNNKQQvg8E",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "probability",
-        "topic": "Lecture 6",
-        "type": "VIDEO",
-        "videoId": "1ODxqEtSnaGAf6xQ1rkZCqUKLopw_ze_h",
-        "unlockTime": "12:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "topic": "Lecture 6",
-        "type": "VIDEO",
-        "videoId": "1B-FJABF2JChahzBmj26MH45Ez0zQFuBK",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-14-TUE",
-    "date": "2026-07-14",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Moving Charges and Magnetism",
-        "topic": "Lecture 10",
-        "type": "VIDEO",
-        "videoId": "1oqGzXmXgFbA09ZYtfKF89_Y-aSiJsCwL",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "probability",
-        "topic": "Lecture 7",
-        "type": "VIDEO",
-        "videoId": "1aegdJzo_PDUqKAZtyUsVE-7XT0Yl9J65",
-        "unlockTime": "02:00 PM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "topic": "Lecture 7",
-        "type": "VIDEO",
-        "videoId": "1rvHpl_owg23FoAj1AtYDbkoA4yGk-9-P",
-        "unlockTime": "07:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-15-WED",
-    "date": "2026-07-15",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Moving Charges and Magnetism",
         "topic": "Lecture 11",
         "type": "VIDEO",
         "videoId": "1Me2WMYmTW0W5tDmmTyl7Nl513YNKEvkk",
@@ -3325,6 +3295,68 @@
         "type": "VIDEO",
         "videoId": "18gXxxd5NC08Gj-1VarPS7aBpmWoWNEke",
         "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-TUE",
+    "date": "2026-07-14",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Moving Charges and Magnetism",
+        "topic": "Lecture 12",
+        "type": "VIDEO",
+        "videoId": "1N9UCSKwl00CheC28jP8rnGDUk3i0EXAp",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Syllabus Complete",
+        "topic": "Self Revision",
+        "type": "VIDEO",
+        "videoId": "",
+        "unlockTime": "09:00 AM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Alcohols, Phenols and Ethers",
+        "topic": "Lecture 9",
+        "type": "VIDEO",
+        "videoId": "13bVzVk2ZRe6nDw9v_y3LBrl9PCMaHc5N",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-WED",
+    "date": "2026-07-15",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Moving Charges and Magnetism",
+        "topic": "Lecture 13",
+        "type": "VIDEO",
+        "videoId": "1bHSUOCuqWs9h5t5h1xTm_AKWG4BDD-Da",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Syllabus Complete",
+        "topic": "Self Revision",
+        "type": "VIDEO",
+        "videoId": "",
+        "unlockTime": "09:00 AM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Alcohols, Phenols and Ethers",
+        "topic": "Lecture 10",
+        "type": "VIDEO",
+        "videoId": "11CcZaVJdtmvXZduNWKR5uprQes7n7-lz",
+        "unlockTime": "07:00 PM"
       }
     ]
   },
@@ -3401,68 +3433,6 @@
     "subjects": [
       {
         "subject": "Physics",
-        "chapterName": "Moving Charges and Magnetism",
-        "topic": "Lecture 12",
-        "type": "VIDEO",
-        "videoId": "1N9UCSKwl00CheC28jP8rnGDUk3i0EXAp",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Syllabus Complete",
-        "topic": "Self Revision",
-        "type": "VIDEO",
-        "videoId": "",
-        "unlockTime": "09:00 AM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "topic": "Lecture 9",
-        "type": "VIDEO",
-        "videoId": "13bVzVk2ZRe6nDw9v_y3LBrl9PCMaHc5N",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-21-TUE",
-    "date": "2026-07-21",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Moving Charges and Magnetism",
-        "topic": "Lecture 13",
-        "type": "VIDEO",
-        "videoId": "1bHSUOCuqWs9h5t5h1xTm_AKWG4BDD-Da",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Syllabus Complete",
-        "topic": "Self Revision",
-        "type": "VIDEO",
-        "videoId": "",
-        "unlockTime": "09:00 AM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "topic": "Lecture 10",
-        "type": "VIDEO",
-        "videoId": "11CcZaVJdtmvXZduNWKR5uprQes7n7-lz",
-        "unlockTime": "07:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-22-WED",
-    "date": "2026-07-22",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
         "chapterName": "Magnetism and Matter",
         "topic": "Lecture 1",
         "type": "VIDEO",
@@ -3484,6 +3454,68 @@
         "type": "VIDEO",
         "videoId": "1eKByt3e1lnRohWlA0awiblel79W0G4Sy",
         "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-TUE",
+    "date": "2026-07-21",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Magnetism and Matter",
+        "topic": "Lecture 2",
+        "type": "VIDEO",
+        "videoId": "1EDKh9atfITYNgbhRN6SH-o-BSDxKaVR3",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Syllabus Complete",
+        "topic": "Self Revision",
+        "type": "VIDEO",
+        "videoId": "",
+        "unlockTime": "09:00 AM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Alcohols, Phenols and Ethers",
+        "topic": "Lecture 12",
+        "type": "VIDEO",
+        "videoId": "1SgWo_t4ERlxfz6oM04PSFvgIhRis62TB",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-22-WED",
+    "date": "2026-07-22",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Magnetism and Matter",
+        "topic": "Lecture 3",
+        "type": "VIDEO",
+        "videoId": "1N84Myu59-2gv5aP6bsUIalacacHqMkcp",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Syllabus Complete",
+        "topic": "Self Revision",
+        "type": "VIDEO",
+        "videoId": "",
+        "unlockTime": "09:00 AM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Alcohols, Phenols and Ethers",
+        "topic": "Lecture 13",
+        "type": "VIDEO",
+        "videoId": "1vNszAI_rLfzcHvZeFFvUk73BtO8ZCgFI",
+        "unlockTime": "07:00 PM"
       }
     ]
   },
@@ -3560,68 +3592,6 @@
     "subjects": [
       {
         "subject": "Physics",
-        "chapterName": "Magnetism and Matter",
-        "topic": "Lecture 2",
-        "type": "VIDEO",
-        "videoId": "1EDKh9atfITYNgbhRN6SH-o-BSDxKaVR3",
-        "unlockTime": "08:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Syllabus Complete",
-        "topic": "Self Revision",
-        "type": "VIDEO",
-        "videoId": "",
-        "unlockTime": "09:00 AM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "topic": "Lecture 12",
-        "type": "VIDEO",
-        "videoId": "1SgWo_t4ERlxfz6oM04PSFvgIhRis62TB",
-        "unlockTime": "06:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-28-TUE",
-    "date": "2026-07-28",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Magnetism and Matter",
-        "topic": "Lecture 3",
-        "type": "VIDEO",
-        "videoId": "1N84Myu59-2gv5aP6bsUIalacacHqMkcp",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Syllabus Complete",
-        "topic": "Self Revision",
-        "type": "VIDEO",
-        "videoId": "",
-        "unlockTime": "09:00 AM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "topic": "Lecture 13",
-        "type": "VIDEO",
-        "videoId": "1vNszAI_rLfzcHvZeFFvUk73BtO8ZCgFI",
-        "unlockTime": "07:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-WED",
-    "date": "2026-07-29",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
         "chapterName": "Electromagnetic Induction",
         "topic": "Lecture 1",
         "type": "VIDEO",
@@ -3647,8 +3617,8 @@
     ]
   },
   {
-    "id": "2026-07-30-THU",
-    "date": "2026-07-30",
+    "id": "2026-07-28-TUE",
+    "date": "2026-07-28",
     "dayType": "CLASS",
     "subjects": [
       {
@@ -3673,6 +3643,68 @@
         "topic": "Lecture 15",
         "type": "VIDEO",
         "videoId": "1OzEqdLvfRozRZ06VNTI1WxGiA3mlYiqP",
+        "unlockTime": "06:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-29-WED",
+    "date": "2026-07-29",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electromagnetic Induction",
+        "topic": "Lecture 3",
+        "type": "VIDEO",
+        "videoId": "13QnYSphtNrb35EkNphG1sRzJ7g2c0QbW",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Syllabus Complete",
+        "topic": "Self Revision",
+        "type": "VIDEO",
+        "videoId": "",
+        "unlockTime": "09:00 AM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Alcohols, Phenols and Ethers",
+        "topic": "Lecture 16",
+        "type": "VIDEO",
+        "videoId": "141FpVgCg0z8qdGtlvqC3QPqGd6men4m_",
+        "unlockTime": "07:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-THU",
+    "date": "2026-07-30",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electromagnetic Induction",
+        "topic": "Lecture 4",
+        "type": "VIDEO",
+        "videoId": "1GORfyTvWS4WYwn1XwfBHguDMoXRe4isf",
+        "unlockTime": "08:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Syllabus Complete",
+        "topic": "Self Revision",
+        "type": "VIDEO",
+        "videoId": "",
+        "unlockTime": "09:00 AM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Alcohols, Phenols and Ethers",
+        "topic": "Lecture 17",
+        "type": "VIDEO",
+        "videoId": "1N5C2kLcB6YQpWLWEFFiTdwoDqxFXfSlM",
         "unlockTime": "06:00 PM"
       }
     ]
@@ -3751,40 +3783,9 @@
       {
         "subject": "Physics",
         "chapterName": "Electromagnetic Induction",
-        "topic": "Lecture 3",
+        "topic": "Lecture 5",
         "type": "VIDEO",
-        "videoId": "13QnYSphtNrb35EkNphG1sRzJ7g2c0QbW",
-        "unlockTime": "10:00 AM"
-      },
-      {
-        "subject": "Math",
-        "chapterName": "Syllabus Complete",
-        "topic": "Self Revision",
-        "type": "VIDEO",
-        "videoId": "",
-        "unlockTime": "09:00 AM"
-      },
-      {
-        "subject": "Chemistry",
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "topic": "Lecture 16",
-        "type": "VIDEO",
-        "videoId": "141FpVgCg0z8qdGtlvqC3QPqGd6men4m_",
-        "unlockTime": "07:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-05-WED",
-    "date": "2026-08-05",
-    "dayType": "CLASS",
-    "subjects": [
-      {
-        "subject": "Physics",
-        "chapterName": "Electromagnetic Induction",
-        "topic": "Lecture 4",
-        "type": "VIDEO",
-        "videoId": "1GORfyTvWS4WYwn1XwfBHguDMoXRe4isf",
+        "videoId": "1Cs4CQQtmdEqTH2OuyW1QiKzwQSfyMVxh",
         "unlockTime": "08:00 AM"
       },
       {
@@ -3797,11 +3798,42 @@
       },
       {
         "subject": "Chemistry",
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "topic": "Lecture 17",
+        "chapterName": "Syllabus Complete",
+        "topic": "Self Revision",
         "type": "VIDEO",
-        "videoId": "1N5C2kLcB6YQpWLWEFFiTdwoDqxFXfSlM",
-        "unlockTime": "06:00 PM"
+        "videoId": "",
+        "unlockTime": "09:00 AM"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-WED",
+    "date": "2026-08-05",
+    "dayType": "CLASS",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "chapterName": "Electromagnetic Induction",
+        "topic": "Lecture 6",
+        "type": "VIDEO",
+        "videoId": "1wPo04ABerVDVa0Glrjlr-xPZre8PeBcS",
+        "unlockTime": "10:00 AM"
+      },
+      {
+        "subject": "Math",
+        "chapterName": "Syllabus Complete",
+        "topic": "Self Revision",
+        "type": "VIDEO",
+        "videoId": "",
+        "unlockTime": "09:00 AM"
+      },
+      {
+        "subject": "Chemistry",
+        "chapterName": "Syllabus Complete",
+        "topic": "Self Revision",
+        "type": "VIDEO",
+        "videoId": "",
+        "unlockTime": "09:00 AM"
       }
     ]
   },
@@ -3813,9 +3845,9 @@
       {
         "subject": "Physics",
         "chapterName": "Electromagnetic Induction",
-        "topic": "Lecture 5",
+        "topic": "Lecture 7",
         "type": "VIDEO",
-        "videoId": "1Cs4CQQtmdEqTH2OuyW1QiKzwQSfyMVxh",
+        "videoId": "1DIs0bUp_CambIThA3yPwfDls9h_gR4-v",
         "unlockTime": "08:00 AM"
       },
       {
@@ -3909,11 +3941,11 @@
     "subjects": [
       {
         "subject": "Physics",
-        "chapterName": "Electromagnetic Induction",
-        "topic": "Lecture 6",
+        "chapterName": "Alternating Current",
+        "topic": "Lecture 1",
         "type": "VIDEO",
-        "videoId": "1wPo04ABerVDVa0Glrjlr-xPZre8PeBcS",
-        "unlockTime": "10:00 AM"
+        "videoId": "1YaPyqZvRE6AQ5pn9kiAlm5sahm5vErHv",
+        "unlockTime": "08:00 AM"
       },
       {
         "subject": "Math",
