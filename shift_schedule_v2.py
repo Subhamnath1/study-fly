@@ -6,7 +6,7 @@ file_path = r'd:\Codding\Study Fly\src\data\schedule.json'
 with open(file_path, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-target_start_date = "2026-03-16"
+target_start_date = "2026-03-20"
 curriculum_queue = []
 
 REVISION_SUBJECTS = [

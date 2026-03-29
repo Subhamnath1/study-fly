@@ -879,3 +879,114 @@ p {
   animation: glideUpStage 0.5s cubic-bezier(0.22, 1, 0.36, 1) 0.3s forwards;
   opacity: 0;
 }
+
+/* ============================================================
+   DASHBOARD — Mega Upgrade Animations
+   ============================================================ */
+
+/* Animated gradient background shift for welcome banner */
+.dashboard-welcome {
+  background-size: 200% 200%;
+  animation: gradientShift 8s ease infinite;
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* SVG ring fill animation */
+.dashboard-ring-animate {
+  animation: ringDraw 1.2s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  transition: stroke-dashoffset 0.6s ease;
+}
+
+@keyframes ringDraw {
+  from { stroke-dashoffset: 327; }
+}
+
+/* Stat card staggered entrance */
+.dashboard-stat-enter {
+  opacity: 0;
+  animation: statSlideUp 0.5s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.dashboard-stat-enter:nth-child(1) { animation-delay: 0.05s; }
+.dashboard-stat-enter:nth-child(2) { animation-delay: 0.1s; }
+.dashboard-stat-enter:nth-child(3) { animation-delay: 0.15s; }
+.dashboard-stat-enter:nth-child(4) { animation-delay: 0.2s; }
+
+@keyframes statSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Streak badge pulse */
+.dashboard-streak-pulse {
+  animation: streakPulse 2s ease-in-out infinite;
+}
+
+@keyframes streakPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(249, 115, 22, 0.3); }
+  50% { box-shadow: 0 0 12px 4px rgba(249, 115, 22, 0.15); }
+}
+
+/* Quote bar entrance */
+.dashboard-quote-enter {
+  opacity: 0;
+  animation: quoteFade 0.6s ease 0.3s forwards;
+}
+
+@keyframes quoteFade {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Countdown entrance */
+.dashboard-countdown-enter {
+  opacity: 0;
+  animation: countdownSlide 0.5s ease 0.2s forwards;
+}
+
+@keyframes countdownSlide {
+  from { opacity: 0; transform: translateX(-12px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+/* Weekly achievement pop */
+.dashboard-achievement-enter {
+  opacity: 0;
+  animation: achievePop 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) 0.4s forwards;
+}
+
+@keyframes achievePop {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+/* Today pulse on calendar */
+@keyframes todayPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(90, 75, 218, 0.3); }
+  50% { box-shadow: 0 0 0 6px rgba(90, 75, 218, 0); }
+}
+
+.calendar-today-pulse {
+  animation: todayPulse 2s ease-in-out infinite;
+}
+
+/* Dashboard responsive */
+@media (max-width: 900px) {
+  .dashboard-welcome { padding: 20px 18px !important; }
+}
+
+@media (max-width: 768px) {
+  .dashboard-stats-section { flex-direction: column !important; }
+  .dashboard-stats-row { grid-template-columns: repeat(2, 1fr) !important; }
+}

@@ -91,6 +91,9 @@ for day in data:
             day["subjects"] = REVISION_SUBJECTS
         continue
         
+    if day.get("dayType") == "BACKLOG_CLEARANCE":
+        continue
+        
     # MON-FRI Day: Sequential Logic
     # Priority: Phys > Math > Chem
     picked_subject = None

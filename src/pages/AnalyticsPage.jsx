@@ -18,7 +18,7 @@ export default function AnalyticsPage() {
         const subjects = {};
 
         schedule.forEach((day) => {
-            if (!day.subjects) return;
+            if (!day.subjects || day.dayType === 'HOLIDAY' || day.dayType === 'BACKLOG_CLEARANCE') return;
             day.subjects.forEach((s) => {
                 total++;
                 if (progressMap[s.videoId]?.completed) completed++;

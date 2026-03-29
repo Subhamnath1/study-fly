@@ -8,8 +8,9 @@ import { useState, useMemo, useEffect, useRef, useCallback } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useSchedule } from '@hooks/useSchedule';
 import { useProgress } from '@hooks/useProgress';
-import { ArrowLeft, PlayCircle, FileText, Check, Coins, FileQuestion, ArrowRightCircle, RotateCcw, Download } from 'lucide-react';
+import { ArrowLeft, PlayCircle, FileText, Check, Coins, FileQuestion, ArrowRightCircle, RotateCcw, Download, ExternalLink, BookOpen } from 'lucide-react';
 import dppsData from '@data/dpps.json';
+import notesData from '@data/notes.json';
 
 /* ── Skeleton Loading ── */
 function SkeletonLessonCard() {
@@ -91,7 +92,7 @@ export default function SubjectView() {
     const { subjectId } = useParams();
     const navigate = useNavigate();
     const { schedule, loading } = useSchedule();
-    const { progressMap } = useProgress();
+    const { progressMap, toggleCompleted } = useProgress();
 
     // Normalize chapter name so "Electric Charges & Fields" === "Electric Charges and Fields"
     const normalizeChapterName = (name) => {
@@ -111,10 +112,11 @@ export default function SubjectView() {
             day.subjects.forEach((s) => {
                 if (s.subject !== subjectId || !s.chapterName) return;
 
+                const itemId = s.videoId || `test_${s.chapterName?.replace(/\s+/g, '')}_${s.topic?.replace(/\s+/g, '')}`;
                 const lessonEntry = {
                     ...s,
                     date: day.date,
-                    completed: !!progressMap[s.videoId]?.completed,
+                    completed: !!progressMap[itemId]?.completed,
                 };
 
                 // Only VIDEO type goes into chapters
@@ -403,6 +405,99 @@ export default function SubjectView() {
                                         </div>
                                     );
                                 })
+                        ) : activeRightTab === 'Notes' ? (
+                            /* ── REDESIGNED NOTES CARDS ── */
+                            (() => {
+                                // Find all notes for this chapter from notes.json
+                                const chapterNotes = activeLessons
+                                    .filter(lesson => lesson.resourceLinks?.notes)
+                                    .map((lesson, idx) => {
+                                        const notesUrl = lesson.resourceLinks.notes;
+                                        // Find matching note in notes.json
+                                        const matchedNote = Object.values(notesData).find(n =>
+                                            n.driveUrl === notesUrl ||
+                                            (n.subject === lesson.subject &&
+                                             n.chapter === lesson.chapterName &&
+                                             n.lecture === parseInt(lesson.topic?.match(/\d+/)?.[0] || '0'))
+                                        );
+                                        return { lesson, notesUrl, matchedNote, idx };
+                                    });
+
+                                if (chapterNotes.length === 0) {
+                                    return (
+                                        <p style={{ textAlign: 'center', marginTop: 40, color: '#64748B' }}>
+                                            No notes available for this chapter yet.
+                                        </p>
+                                    );
+                                }
+
+                                return chapterNotes.map(({ lesson, notesUrl, matchedNote, idx }) => {
+                                    const displayDate = new Date(lesson.date).toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
+                                    const lecNum = lesson.topic?.match(/\d+/)?.[0] || (idx + 1);
+                                    const noteTitle = matchedNote?.title || `Lecture ${lecNum} Notes`;
+                                    const noteId = matchedNote?.id;
+                                    const fileIdMatch = notesUrl.match(/\/d\/([a-zA-Z0-9_-]+)/);
+                                    const fileId = fileIdMatch?.[1];
+                                    const downloadUrl = fileId
+                                        ? `https://drive.google.com/uc?export=download&id=${fileId}`
+                                        : notesUrl;
+
+                                    return (
+                                        <div
+                                            key={noteId || `note-${idx}`}
+                                            className="lesson-card-hover course-card-enter"
+                                            style={{
+                                                ...styles.noteCard,
+                                                animationDelay: `${idx * 0.05}s`,
+                                            }}
+                                            onClick={() => {
+                                                if (noteId) {
+                                                    window.open(`/notes/${noteId}`, '_blank');
+                                                } else {
+                                                    window.open(notesUrl, '_blank');
+                                                }
+                                            }}
+                                        >
+                                            {/* Note Icon */}
+                                            <div style={styles.noteIconWrap}>
+                                                <div style={styles.noteIconInner}>
+                                                    <BookOpen size={22} color="#6366F1" />
+                                                </div>
+                                            </div>
+
+                                            {/* Note Info */}
+                                            <div style={styles.noteInfoWrap}>
+                                                <div style={styles.noteTopRow}>
+                                                    <span style={styles.noteDateTag}>NOTES • {displayDate}</span>
+                                                    <div style={styles.notePdfBadge}>PDF</div>
+                                                </div>
+                                                <h4 style={styles.noteTitle}>{noteTitle}</h4>
+                                                <p style={styles.noteSubtitle}>
+                                                    {lesson.chapterName} — {cleanTopicName(lesson.topic)}
+                                                </p>
+                                                <div style={styles.noteActionRow}>
+                                                    <span style={styles.noteViewHint}>
+                                                        <ExternalLink size={13} style={{ marginRight: 4 }} />
+                                                        Click to open in PDF Viewer
+                                                    </span>
+                                                </div>
+                                            </div>
+
+                                            {/* Download Button */}
+                                            <button
+                                                style={styles.noteDownloadBtn}
+                                                onClick={(e) => {
+                                                    e.stopPropagation();
+                                                    window.open(downloadUrl, '_blank');
+                                                }}
+                                                title="Download PDF"
+                                            >
+                                                <Download size={18} />
+                                            </button>
+                                        </div>
+                                    );
+                                });
+                            })()
                         ) : (
                             /* ── EXISTING LECTURE/ALL CARD LAYOUT ── */
                             activeLessons.map((lesson, idx) => {
@@ -454,11 +549,26 @@ export default function SubjectView() {
                                                 <span style={styles.lessonType}>
                                                     {lesson.type === 'VIDEO' ? 'LECTURE' : lesson.type === 'TEST' ? 'TEST' : 'REVISION'} • {displayDate}
                                                 </span>
-                                                {isCompleted ? (
-                                                    <div style={styles.checkBubbleCompleted}><Check size={12} strokeWidth={3} /></div>
-                                                ) : (
-                                                    <div style={styles.checkBubblePending}><Check size={12} strokeWidth={3} color="#CBD5E1" /></div>
-                                                )}
+                                                {(() => {
+                                                    const itemId = lesson.videoId || `test_${lesson.chapterName?.replace(/\s+/g, '')}_${lesson.topic?.replace(/\s+/g, '')}`;
+                                                    return isCompleted ? (
+                                                        <div 
+                                                            style={{ padding: 8, margin: -8, cursor: 'pointer', zIndex: 10 }}
+                                                            onClick={(e) => { e.preventDefault(); e.stopPropagation(); toggleCompleted(itemId); }}
+                                                            title="Mark as unread"
+                                                        >
+                                                            <div style={styles.checkBubbleCompleted}><Check size={12} strokeWidth={3} /></div>
+                                                        </div>
+                                                    ) : (
+                                                        <div 
+                                                            style={{ padding: 8, margin: -8, cursor: 'pointer', zIndex: 10 }}
+                                                            onClick={(e) => { e.preventDefault(); e.stopPropagation(); toggleCompleted(itemId); }}
+                                                            title="Mark as done"
+                                                        >
+                                                            <div style={styles.checkBubblePending}><Check size={12} strokeWidth={3} color="#CBD5E1" /></div>
+                                                        </div>
+                                                    );
+                                                })()}
                                             </div>
 
                                             <h4 style={styles.lessonTitle}>
@@ -707,5 +817,54 @@ const styles = {
     dppActionPdf: {
         display: 'flex', alignItems: 'center', gap: 6, background: 'transparent', border: 'none',
         color: '#64748B', fontWeight: 600, fontSize: '0.85rem', cursor: 'pointer', padding: 0
-    }
+    },
+
+    // Notes Card Styles (redesigned — no iframes)
+    noteCard: {
+        display: 'flex', alignItems: 'center', gap: 16, padding: '18px 20px',
+        borderRadius: 14, border: '1px solid #E2E8F0', background: '#fff',
+        boxShadow: '0 1px 3px rgba(0,0,0,0.02)', cursor: 'pointer',
+        transition: 'all 0.2s ease',
+    },
+    noteIconWrap: {
+        width: 56, height: 56, background: 'linear-gradient(135deg, #EEF2FF, #E0E7FF)',
+        borderRadius: 14, display: 'flex', alignItems: 'center', justifyContent: 'center',
+        flexShrink: 0, border: '1px solid #E0E7FF',
+    },
+    noteIconInner: {
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+    },
+    noteInfoWrap: {
+        flex: 1, display: 'flex', flexDirection: 'column', minWidth: 0,
+    },
+    noteTopRow: {
+        display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 4,
+    },
+    noteDateTag: {
+        fontSize: '0.7rem', fontWeight: 700, color: '#6366F1',
+        letterSpacing: '0.05em',
+    },
+    notePdfBadge: {
+        background: '#FEF3C7', color: '#D97706', fontSize: '0.6rem', fontWeight: 800,
+        padding: '2px 8px', borderRadius: 4, letterSpacing: '0.05em',
+    },
+    noteTitle: {
+        fontSize: '1rem', fontWeight: 700, color: '#1E293B', lineHeight: 1.3,
+    },
+    noteSubtitle: {
+        fontSize: '0.78rem', color: '#64748B', marginTop: 2, fontWeight: 500,
+    },
+    noteActionRow: {
+        marginTop: 6,
+    },
+    noteViewHint: {
+        display: 'inline-flex', alignItems: 'center', fontSize: '0.72rem',
+        color: '#94A3B8', fontWeight: 500,
+    },
+    noteDownloadBtn: {
+        width: 44, height: 44, borderRadius: 12, background: '#F8FAFC',
+        border: '1px solid #E2E8F0', display: 'flex', alignItems: 'center',
+        justifyContent: 'center', cursor: 'pointer', color: '#6366F1',
+        flexShrink: 0, transition: 'all 0.15s ease',
+    },
 };

@@ -30,6 +30,7 @@ const AiTutorPage = lazy(() => import('@pages/AiTutorPage'));
 const Result = lazy(() => import('@pages/Result'));
 const Login = lazy(() => import('@pages/Login'));
 const NotFound = lazy(() => import('@pages/NotFound'));
+const PdfViewer = lazy(() => import('@pages/PdfViewer'));
 
 /**
  * Global loading fallback shown while lazy chunks are being fetched.
@@ -57,6 +58,11 @@ export default function App() {
             <Routes>
               {/* Public Route */}
               <Route path="/login" element={<Login />} />
+
+              {/* PDF Viewer — Full-screen, outside AppShell */}
+              <Route path="/notes/:noteId" element={
+                <ProtectedRoute><PdfViewer /></ProtectedRoute>
+              } />
 
               {/* Protected Routes with Sidebar Layout */}
               <Route

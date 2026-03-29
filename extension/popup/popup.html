@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Study Fly Tracker</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup">
+    <!-- Header -->
+    <div class="header">
+      <img src="../icons/icon48.png" alt="SF" class="logo">
+      <div class="header-text">
+        <h1>Study Fly Tracker</h1>
+        <span class="version">v2.0.0</span>
+      </div>
+      <div class="status-indicator" id="statusIndicator">
+        <div class="pulse-dot" id="pulseDot"></div>
+      </div>
+    </div>
+
+    <!-- Connection Status -->
+    <div class="status-bar" id="statusBar">
+      <span id="statusText">Checking…</span>
+    </div>
+
+    <!-- Now Tracking (visible when tracking) -->
+    <div class="tracking-card" id="trackingCard" style="display:none;">
+      <div class="tracking-header">
+        <span class="tracking-label">🎬 Now Tracking</span>
+        <span class="tracking-source" id="trackingSource">Drive</span>
+      </div>
+
+      <!-- Progress circle -->
+      <div class="progress-circle-wrap">
+        <svg class="progress-circle" viewBox="0 0 80 80">
+          <circle class="progress-bg" cx="40" cy="40" r="34" />
+          <circle class="progress-fill" id="progressCircle" cx="40" cy="40" r="34" 
+                  stroke-dasharray="213.6" stroke-dashoffset="213.6" />
+        </svg>
+        <div class="progress-text" id="progressPctText">0%</div>
+      </div>
+
+      <!-- Time info -->
+      <div class="time-row">
+        <span class="time-current" id="timeCurrent">0:00</span>
+        <div class="time-bar-bg">
+          <div class="time-bar-fill" id="timeBarFill"></div>
+        </div>
+        <span class="time-total" id="timeTotal">0:00</span>
+      </div>
+
+      <!-- Speed + Status -->
+      <div class="meta-row">
+        <div class="meta-chip" id="speedChip">
+          <span class="meta-icon">⚡</span>
+          <span id="speedText">1x</span>
+        </div>
+        <div class="meta-chip" id="stateChip">
+          <span class="meta-icon" id="stateIcon">▶️</span>
+          <span id="stateText">Playing</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Stats Section -->
+    <div class="stats-grid">
+      <div class="stat-card">
+        <span class="stat-value" id="totalTime">0m</span>
+        <span class="stat-label">Watch Time</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-value" id="videosTracked">0</span>
+        <span class="stat-label">Videos Tracked</span>
+      </div>
+    </div>
+
+    <!-- Quick Actions -->
+    <div class="actions">
+      <a href="https://main.study-fly.pages.dev/dashboard" target="_blank" class="action-btn primary">
+        📊 Dashboard
+      </a>
+      <a href="https://main.study-fly.pages.dev/courses" target="_blank" class="action-btn secondary">
+        📚 Courses
+      </a>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      <span class="footer-text">Keyboard: Space ▶️⏸️ | ← → Seek | [ ] Speed</span>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

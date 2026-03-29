@@ -12,6 +12,7 @@ import { useProgress } from '@hooks/useProgress';
 import { ArrowLeft, FileText, FileImage, BookOpen, FlaskConical, Sigma } from 'lucide-react';
 import TopBar from '@organisms/TopBar';
 import DrivePlayer from '@organisms/DrivePlayer';
+import notesData from '@data/notes.json';
 
 const SUBJECT_GRADIENT = {
     Physics: 'linear-gradient(135deg, #3B82F6, #60A5FA)',
@@ -32,7 +33,7 @@ export default function Player() {
     const { videoId } = useParams();
     const navigate = useNavigate();
     const { schedule } = useDataContext();
-    const { getProgress, markAsCompleted } = useProgress();
+    const { getProgress, markAsCompleted, saveProgress } = useProgress();
 
     /* Find the subject entry matching the videoId */
     const lectureData = useMemo(() => {
@@ -97,6 +98,7 @@ export default function Player() {
                     videoId={videoId}
                     progress={progress}
                     onMarkComplete={markAsCompleted}
+                    onSaveProgress={saveProgress}
                     completed={isCompleted}
                 />
 
@@ -105,7 +107,12 @@ export default function Player() {
                     <h3 style={styles.materialTitle}>Study Material</h3>
                     <div style={styles.materialGrid}>
                         <a
-                            href={lectureData.resourceLinks?.notes}
+                            href={(() => {
+                                const notesUrl = lectureData.resourceLinks?.notes;
+                                if (!notesUrl) return '#';
+                                const matchedNote = Object.values(notesData).find(n => n.driveUrl === notesUrl);
+                                return matchedNote ? `/notes/${matchedNote.id}` : notesUrl;
+                            })()}
                             target="_blank"
                             rel="noopener noreferrer"
                             style={styles.materialCard}
@@ -115,7 +122,7 @@ export default function Player() {
                             </div>
                             <div>
                                 <p style={styles.materialLabel}>Class Notes</p>
-                                <p style={styles.materialSub}>PDF • View / Download</p>
+                                <p style={styles.materialSub}>PDF • View in Reader</p>
                             </div>
                         </a>
 

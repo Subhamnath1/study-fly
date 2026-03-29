@@ -15,9 +15,12 @@ const LS_KEY = 'study_fly_progress';
 
 /**
  * @typedef {Object} VideoProgress
- * @property {number}  timestamp    - Last known playback position in seconds.
- * @property {boolean} completed    - Whether the user has marked this video as done.
- * @property {string}  lastWatched  - ISO date string of last watch.
+ * @property {number}  timestamp      - Last known playback position in seconds.
+ * @property {boolean} completed      - Whether the user has marked this video as done.
+ * @property {string}  lastWatched    - ISO date string of last watch.
+ * @property {number}  [percentWatched] - Percentage of video watched (0-100).
+ * @property {number}  [speed]        - Last known playback speed.
+ * @property {number}  [videoDuration] - Total video duration in seconds.
  */
 
 /* ── localStorage helpers ── */
@@ -47,7 +50,7 @@ function saveToLocalStorage(map) {
  * @returns {{
  *   progressMap: Record<string, VideoProgress>,
  *   getProgress: (videoId: string) => VideoProgress | null,
- *   saveProgress: (videoId: string, timestamp: number) => void,
+ *   saveProgress: (videoId: string, timestamp: number, extra?: {percentWatched?: number, speed?: number, videoDuration?: number}) => void,
  *   markAsCompleted: (videoId: string) => void,
  *   syncing: boolean
  * }}
@@ -82,13 +85,20 @@ export function useProgress() {
      * Save playback timestamp (debounced cloud sync).
      * @param {string} videoId
      * @param {number} timestamp
+     * @param {Object} [extra] - Additional tracking fields
+     * @param {number} [extra.percentWatched]
+     * @param {number} [extra.speed]
+     * @param {number} [extra.videoDuration]
      */
     const saveProgress = useCallback(
-        (videoId, timestamp) => {
+        (videoId, timestamp, extra = {}) => {
             const entry = {
                 timestamp,
                 completed: progressMap[videoId]?.completed ?? false,
                 lastWatched: new Date().toISOString(),
+                ...(extra.percentWatched !== undefined && { percentWatched: extra.percentWatched }),
+                ...(extra.speed !== undefined && { speed: extra.speed }),
+                ...(extra.videoDuration !== undefined && { videoDuration: extra.videoDuration }),
             };
             setProgressMap((prev) => {
                 const next = { ...prev, [videoId]: entry };
@@ -123,5 +133,27 @@ export function useProgress() {
         [progressMap],
     );
 
-    return { progressMap, getProgress, saveProgress, markAsCompleted, syncing };
+    /**
+     * Toggle the completion status of a video manually (e.g. from course list).
+     * @param {string} videoId
+     */
+    const toggleCompleted = useCallback(
+        (videoId) => {
+            setProgressMap((prev) => {
+                const currentStatus = prev[videoId]?.completed ?? false;
+                const entry = {
+                    timestamp: prev[videoId]?.timestamp ?? 0,
+                    completed: !currentStatus,
+                    lastWatched: new Date().toISOString(),
+                };
+                const next = { ...prev, [videoId]: entry };
+                saveToLocalStorage(next);
+                return next;
+            });
+            schedulePush();
+        },
+        []
+    );
+
+    return { progressMap, getProgress, saveProgress, markAsCompleted, toggleCompleted, syncing };
 }
